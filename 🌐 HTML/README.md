@@ -111,5 +111,6 @@ Every exercise ships with a starter file (the comments tell you what to add) and
 - [🐍 Python MOC](../%F0%9F%90%8D%20Python/README.md) — foundational programming skills that translate well to web work
 - [🖥️ Command Line MOC](../%F0%9F%96%A5%EF%B8%8F%20Command%20Line/README.md) — useful for navigating the folder and opening files
 - [🎨 CSS MOC](../%F0%9F%8E%A8%20CSS/README.md) — the natural next step once your structure is solid
+- [🟨 JavaScript MOC](../%F0%9F%9F%A8%20JavaScript/README.md) — the language that brings these pages to life
 
 ---

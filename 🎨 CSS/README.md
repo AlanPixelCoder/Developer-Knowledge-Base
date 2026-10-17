@@ -157,6 +157,7 @@ Every project ships with the HTML structure it styles, so you compare what the m
 ## 🔗 See Also
 
 - [🌐 HTML MOC](../%F0%9F%8C%90%20HTML/README.md) — the structure this module styles; prerequisite
+- [🟨 JavaScript MOC](../%F0%9F%9F%A8%20JavaScript/README.md) — the language that makes these styled pages interactive
 - [🟣 CSharp MOC](../%F0%9F%9F%A3%20CSharp/README.md) — game development logic to pair with the Emberfall projects
 - [🤖 GenAI MOC](../%F0%9F%A4%96%20GenAI/README.md) — generating assets and boilerplate for those projects
 

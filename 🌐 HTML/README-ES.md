@@ -112,5 +112,6 @@ Cada ejercicio incluye un archivo inicial (los comentarios te indican qué añad
 - [MOC de 🐍 Python](../%F0%9F%90%8D%20Python/README-ES.md) — fundamentos de programación que se aplican muy bien al desarrollo web
 - [MOC de 🖥️ Línea de Comandos](../%F0%9F%96%A5%EF%B8%8F%20Command%20Line/README-ES.md) — útil para navegar por carpetas y abrir archivos
 - [MOC de 🎨 CSS](../%F0%9F%8E%A8%20CSS/README-ES.md) — el siguiente paso natural cuando la estructura ya es sólida
+- [MOC de 🟨 JavaScript](../%F0%9F%9F%A8%20JavaScript/README-ES.md) — el lenguaje que da vida a estas páginas
 
 ---

@@ -158,6 +158,7 @@ Cada proyecto incluye la estructura HTML que estiliza, para que compares lo que 
 ## 🔗 Ver también
 
 - [MOC de 🌐 HTML](../%F0%9F%8C%90%20HTML/README-ES.md) — la estructura que este módulo estiliza; requisito previo
+- [MOC de 🟨 JavaScript](../%F0%9F%9F%A8%20JavaScript/README-ES.md) — el lenguaje que hace interactivas estas páginas estilizadas
 - [MOC de 🟣 CSharp](../%F0%9F%9F%A3%20CSharp/README-ES.md) — lógica de desarrollo de videojuegos para acompañar los proyectos de Emberfall
 - [MOC de 🤖 GenAI](../%F0%9F%A4%96%20GenAI/README-ES.md) — generar assets y código repetitivo para esos proyectos
 

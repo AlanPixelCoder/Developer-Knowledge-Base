@@ -34,6 +34,7 @@ recorrer una carpeta.
 | 🤖 **GenAI** | Cómo funcionan los LLM, ingeniería de prompts, embeddings y modos de fallo de la IA | 6 EN · 6 ES | 🟢 Activo | [EN](%F0%9F%A4%96%20GenAI/README.md) · [ES](%F0%9F%A4%96%20GenAI/README-ES.md) |
 | 🌐 **HTML** | Estructura de páginas web, elementos, atributos, estilos y formularios | 6 EN · 6 ES | 🟢 Activo | [EN](%F0%9F%8C%90%20HTML/README.md) · [ES](%F0%9F%8C%90%20HTML/README-ES.md) |
 | 🎨 **CSS** | Estilos, selectores, colores, el modelo de caja, posicionamiento y maquetación flexbox | 14 EN · 14 ES | 🟢 Activo | [EN](%F0%9F%8E%A8%20CSS/README.md) · [ES](%F0%9F%8E%A8%20CSS/README-ES.md) |
+| 🟨 **JavaScript** | Variables, control de flujo, arreglos, funciones, objetos, el DOM y eventos | 10 EN · 10 ES | 🟢 Activo | [EN](%F0%9F%9F%A8%20JavaScript/README.md) · [ES](%F0%9F%9F%A8%20JavaScript/README-ES.md) |
 | ⚙️ **Ingeniería de Software** | Patrones de diseño, algoritmos y arquitectura de sistemas | — | 🟡 Planificado | *Próximamente* |
 | 🎮 **Arquitectura de Juegos** | Mecánicas interactivas, patrones de motor y física | — | 🟡 Planificado | *Próximamente* |
 
@@ -164,7 +165,20 @@ Developer-Knowledge-Base/
 │   ├── 09 - Box Model & Borders.md       ·  09 - Modelo de Caja y Bordes.md
 │   ├── 10 - Spacing & Box Sizing.md      ·  10 - Espaciado y Box Sizing.md
 │   ├── 11 - Display & Positioning.md     ·  11 - Display y Posicionamiento.md
-│   └── 12 - Flexbox.md                   ·  12 - Flexbox ES.md
+│   ├── 12 - Flexbox.md                   ·  12 - Flexbox ES.md
+│
+├── 🟨 JavaScript/                         <-- 10 temas · EN + ES
+│   ├── README.md          ·  README-ES.md
+│   ├── 00b - JavaScript Cheatsheet.md    ·  00b - Chuleta de JavaScript.md
+│   ├── 00c - JavaScript Cheatsheet II.md ·  00c - Chuleta de JavaScript II.md
+│   ├── 01 - Insert Coin.md               ·  01 - Inserta la Moneda.md
+│   ├── 02 - Player Stats.md              ·  02 - Atributos del Jugador.md
+│   ├── 03 - Loot Rolls.md                ·  03 - Tiradas de Botín.md
+│   ├── 04 - The Farm.md                  ·  04 - El Farmeo.md
+│   ├── 05 - Inventory.md                 ·  05 - Inventario.md
+│   ├── 06 - Skill Functions.md           ·  06 - Funciones de Habilidad.md
+│   ├── 07 - Character Sheet.md           ·  07 - Ficha de Personaje.md
+│   └── 08 - Living HUD.md                ·  08 - HUD Vivo.md
 │
 └── 🤖 GenAI/                              <-- 6 temas · EN + ES
     ├── README.md          ·  README-ES.md
