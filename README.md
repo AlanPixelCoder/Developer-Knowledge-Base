@@ -33,6 +33,7 @@ Every domain is self-contained and opens with a **MOC** (Map of Content): an ind
 | 🌐 **HTML** | Web page structure, elements, attributes, styles, forms & semantic regions | 6 EN · 6 ES | 🟢 Active | [EN](%F0%9F%8C%90%20HTML/README.md) · [ES](%F0%9F%8C%90%20HTML/README-ES.md) |
 | 🎨 **CSS** | Styling, selectors, colors, the box model, positioning & flexbox layouts | 14 EN · 14 ES | 🟢 Active | [EN](%F0%9F%8E%A8%20CSS/README.md) · [ES](%F0%9F%8E%A8%20CSS/README-ES.md) |
 | 🟨 **JavaScript** | Variables, control flow, arrays, functions, objects, the DOM & events | 10 EN · 10 ES | 🟢 Active | [EN](%F0%9F%9F%A8%20JavaScript/README.md) · [ES](%F0%9F%9F%A8%20JavaScript/README-ES.md) |
+| ⚛️ **React** | Components, JSX, props & state, hooks, context, fetching & routing | 17 EN · 17 ES | 🟢 Active | [EN](%E2%9A%9B%EF%B8%8F%20React/README.md) · [ES](%E2%9A%9B%EF%B8%8F%20React/README-ES.md) |
 | ⚙️ **Software Engineering** | Design patterns, algorithms & system architecture | — | 🟡 Planned | *Coming soon* |
 | 🎮 **Game Architecture** | Interactive mechanics, engine patterns & physics | — | 🟡 Planned | *Coming soon* |
 
@@ -40,10 +41,12 @@ Every domain is self-contained and opens with a **MOC** (Map of Content): an ind
 `03`… Cheatsheets use a `00b` / `00c` prefix and sit *before* the numbered sequence,
 because they are meant to be consulted while working rather than read front to back.
 
-**The one module that builds on another.** 🤖 **GenAI** is the AI layer of this vault: it
+**The modules that build on others.** 🤖 **GenAI** is the AI layer of this vault: it
 starts from the Python of 🐍 **Python** and builds a next-token predictor, a prompt library
 and a semantic search engine in pure Python, so the AI tooling is understood from the
-inside rather than borrowed from an API.
+inside rather than borrowed from an API. ⚛️ **React** is its web counterpart: it starts
+from the 🟨 **JavaScript**, 🌐 **HTML** and 🎨 **CSS** modules and turns their static
+pages into a living single-page application.
 
 **How to read a note.** Each one is a self-contained lesson: a concept, a runnable
 example, its printed output, and the traps worth knowing. Code blocks are executable as
@@ -175,6 +178,26 @@ Developer-Knowledge-Base/
 │   ├── 06 - Skill Functions.md           ·  06 - Funciones de Habilidad.md
 │   ├── 07 - Character Sheet.md           ·  07 - Ficha de Personaje.md
 │   └── 08 - Living HUD.md                ·  08 - HUD Vivo.md
+│
+├── ⚛️ React/                              <-- 17 topics · EN + ES
+│   ├── README.md          ·  README-ES.md
+│   ├── 00b - React Cheatsheet.md         ·  00b - Chuleta de React.md
+│   ├── 00c - React Cheatsheet II.md      ·  00c - Chuleta de React II.md
+│   ├── 01 - The Rebirth.md               ·  01 - El Renacimiento.md
+│   ├── 02 - Spawn Point.md               ·  02 - Punto de Aparición.md
+│   ├── 03 - Glyph Workshop.md            ·  03 - Taller de Glifos.md
+│   ├── 04 - Living Markup.md             ·  04 - Marcado Vivo.md
+│   ├── 05 - Building Blocks.md           ·  05 - Bloques de Construcción.md
+│   ├── 06 - The Skill Tree.md            ·  06 - El Árbol de Habilidades.md
+│   ├── 07 - Trade Routes.md              ·  07 - Rutas Comerciales.md
+│   ├── 08 - The Health Bar.md            ·  08 - La Barra de Vida.md
+│   ├── 09 - The Controller.md            ·  09 - El Mando.md
+│   ├── 10 - The Forge.md                 ·  10 - La Fragua.md
+│   ├── 11 - The Relic System.md          ·  11 - El Sistema de Reliquias.md
+│   ├── 12 - The Guild Ledger.md          ·  12 - El Libro del Gremio.md
+│   ├── 13 - The Courier.md               ·  13 - El Mensajero.md
+│   ├── 14 - The World Map.md             ·  14 - El Mapa del Mundo.md
+│   └── 15 - The Final Boss.md            ·  15 - El Jefe Final.md
 │
 └── 🤖 GenAI/                              <-- 6 topics · EN + ES
     ├── README.md          ·  README-ES.md

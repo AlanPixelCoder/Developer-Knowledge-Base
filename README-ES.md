@@ -35,6 +35,7 @@ recorrer una carpeta.
 | 🌐 **HTML** | Estructura de páginas web, elementos, atributos, estilos y formularios | 6 EN · 6 ES | 🟢 Activo | [EN](%F0%9F%8C%90%20HTML/README.md) · [ES](%F0%9F%8C%90%20HTML/README-ES.md) |
 | 🎨 **CSS** | Estilos, selectores, colores, el modelo de caja, posicionamiento y maquetación flexbox | 14 EN · 14 ES | 🟢 Activo | [EN](%F0%9F%8E%A8%20CSS/README.md) · [ES](%F0%9F%8E%A8%20CSS/README-ES.md) |
 | 🟨 **JavaScript** | Variables, control de flujo, arreglos, funciones, objetos, el DOM y eventos | 10 EN · 10 ES | 🟢 Activo | [EN](%F0%9F%9F%A8%20JavaScript/README.md) · [ES](%F0%9F%9F%A8%20JavaScript/README-ES.md) |
+| ⚛️ **React** | Componentes, JSX, props y estado, hooks, contexto, obtención de datos y enrutamiento | 17 EN · 17 ES | 🟢 Activo | [EN](%E2%9A%9B%EF%B8%8F%20React/README.md) · [ES](%E2%9A%9B%EF%B8%8F%20React/README-ES.md) |
 | ⚙️ **Ingeniería de Software** | Patrones de diseño, algoritmos y arquitectura de sistemas | — | 🟡 Planificado | *Próximamente* |
 | 🎮 **Arquitectura de Juegos** | Mecánicas interactivas, patrones de motor y física | — | 🟡 Planificado | *Próximamente* |
 
@@ -43,10 +44,12 @@ de aprendizaje — `01`, `02`, `03`… Las chuletas usan el prefijo `00b` / `00c
 *antes* de la secuencia numerada, porque están pensadas para consultarse mientras se trabaja
 y no para leerse de principio a fin.
 
-**El único módulo que se apoya en otro.** 🤖 **GenAI** es la capa de IA de esta vault: parte
+**Los módulos que se apoyan en otros.** 🤖 **GenAI** es la capa de IA de esta vault: parte
 del Python de 🐍 **Python** y construye un predictor del siguiente token, una biblioteca de
 prompts y un motor de búsqueda semántica en Python puro, de modo que las herramientas de IA
-se entiendan por dentro en lugar de pedirlas prestadas a una API.
+se entiendan por dentro en lugar de pedirlas prestadas a una API. ⚛️ **React** es su
+equivalente web: parte de los módulos de 🟨 **JavaScript**, 🌐 **HTML** y 🎨 **CSS** y
+convierte sus páginas estáticas en una aplicación de página única viva.
 
 **Cómo leer una nota.** Cada una es una lección autónoma: un concepto, un ejemplo ejecutable,
 su salida por consola y las trampas que conviene conocer. Los bloques de código se ejecutan
@@ -179,6 +182,26 @@ Developer-Knowledge-Base/
 │   ├── 06 - Skill Functions.md           ·  06 - Funciones de Habilidad.md
 │   ├── 07 - Character Sheet.md           ·  07 - Ficha de Personaje.md
 │   └── 08 - Living HUD.md                ·  08 - HUD Vivo.md
+│
+├── ⚛️ React/                              <-- 17 temas · EN + ES
+│   ├── README.md          ·  README-ES.md
+│   ├── 00b - React Cheatsheet.md         ·  00b - Chuleta de React.md
+│   ├── 00c - React Cheatsheet II.md      ·  00c - Chuleta de React II.md
+│   ├── 01 - The Rebirth.md               ·  01 - El Renacimiento.md
+│   ├── 02 - Spawn Point.md               ·  02 - Punto de Aparición.md
+│   ├── 03 - Glyph Workshop.md            ·  03 - Taller de Glifos.md
+│   ├── 04 - Living Markup.md             ·  04 - Marcado Vivo.md
+│   ├── 05 - Building Blocks.md           ·  05 - Bloques de Construcción.md
+│   ├── 06 - The Skill Tree.md            ·  06 - El Árbol de Habilidades.md
+│   ├── 07 - Trade Routes.md              ·  07 - Rutas Comerciales.md
+│   ├── 08 - The Health Bar.md            ·  08 - La Barra de Vida.md
+│   ├── 09 - The Controller.md            ·  09 - El Mando.md
+│   ├── 10 - The Forge.md                 ·  10 - La Fragua.md
+│   ├── 11 - The Relic System.md          ·  11 - El Sistema de Reliquias.md
+│   ├── 12 - The Guild Ledger.md          ·  12 - El Libro del Gremio.md
+│   ├── 13 - The Courier.md               ·  13 - El Mensajero.md
+│   ├── 14 - The World Map.md             ·  14 - El Mapa del Mundo.md
+│   └── 15 - The Final Boss.md            ·  15 - El Jefe Final.md
 │
 └── 🤖 GenAI/                              <-- 6 temas · EN + ES
     ├── README.md          ·  README-ES.md

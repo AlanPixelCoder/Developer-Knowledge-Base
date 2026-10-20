@@ -142,6 +142,7 @@ generator — so nothing stays as isolated trivia.
 
 - [🌐 HTML MOC](../%F0%9F%8C%90%20HTML/README.md) — the structure this module brings to life; prerequisite
 - [🎨 CSS MOC](../%F0%9F%8E%A8%20CSS/README.md) — the styling half of the same pages
+- [⚛️ React MOC](../%E2%9A%9B%EF%B8%8F%20React/README.md) — the component layer that builds on this module, HTML and CSS
 - [🟣 CSharp MOC](../%F0%9F%9F%A3%20CSharp/README.md) — the strongly typed counterpart, with the same game-first framing
 
 ---

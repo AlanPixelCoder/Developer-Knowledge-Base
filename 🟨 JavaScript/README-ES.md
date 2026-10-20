@@ -155,6 +155,7 @@ aislado.
 
 - [MOC de 🌐 HTML](../%F0%9F%8C%90%20HTML/README-ES.md) — la estructura que este módulo da vida; requisito previo
 - [MOC de 🎨 CSS](../%F0%9F%8E%A8%20CSS/README-ES.md) — la mitad de estilos de las mismas páginas
+- [MOC de ⚛️ React](../%E2%9A%9B%EF%B8%8F%20React/README-ES.md) — la capa de componentes que se apoya en este módulo, HTML y CSS
 - [MOC de 🟣 CSharp](../%F0%9F%9F%A3%20CSharp/README-ES.md) — el equivalente de tipado fuerte, con el mismo enfoque primero-juego
 
 ---
