@@ -36,7 +36,7 @@ recorrer una carpeta.
 | 🎨 **CSS** | Estilos, selectores, colores, el modelo de caja, posicionamiento y maquetación flexbox | 14 EN · 14 ES | 🟢 Activo | [EN](%F0%9F%8E%A8%20CSS/README.md) · [ES](%F0%9F%8E%A8%20CSS/README-ES.md) |
 | 🟨 **JavaScript** | Variables, control de flujo, arreglos, funciones, objetos, el DOM y eventos | 10 EN · 10 ES | 🟢 Activo | [EN](%F0%9F%9F%A8%20JavaScript/README.md) · [ES](%F0%9F%9F%A8%20JavaScript/README-ES.md) |
 | ⚛️ **React** | Componentes, JSX, props y estado, hooks, contexto, obtención de datos y enrutamiento | 17 EN · 17 ES | 🟢 Activo | [EN](%E2%9A%9B%EF%B8%8F%20React/README.md) · [ES](%E2%9A%9B%EF%B8%8F%20React/README-ES.md) |
-| ⚙️ **C++** | Programación de sistemas, memoria manual, clases, punteros y referencias | 53 EN · 53 ES | 🟢 Activo | [EN](%E2%9A%99%EF%B8%8F%20C%2B%2B/README.md) · [ES](%E2%9A%99%EF%B8%8F%20C%2B%2B/README-ES.md) |
+| ⚙️ **C++** | Fundamentos de motor: tipos, control de flujo, colecciones, clases, memoria | 53 EN · 53 ES | 🟢 Activo | [EN](%E2%9A%99%EF%B8%8F%20C%2B%2B/README.md) · [ES](%E2%9A%99%EF%B8%8F%20C%2B%2B/README-ES.md) |
 | 🏗️ **Ingeniería de Software** | Patrones de diseño, algoritmos y arquitectura de sistemas | — | 🟡 Planificado | *Próximamente* |
 | 🎮 **Arquitectura de Juegos** | Mecánicas interactivas, patrones de motor y física | — | 🟡 Planificado | *Próximamente* |
 
@@ -209,59 +209,59 @@ Developer-Knowledge-Base/
 │
 ├── ⚙️ C++/                                <-- 53 temas · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 00b - C++ Cheatsheet.md            ·  00b - Chuleta de C++.md
-│   ├── 00c - C++ Cheatsheet II.md         ·  00c - Chuleta de C++ II.md
-│   ├── 01 - The Program.md                ·  01 - El Programa.md
-│   ├── 02 - Howdy!.md                     ·  02 - ¡Howdy!.md
-│   ├── 03 - See Ya Later Alligator.md     ·  03 - Nos Vemos Más Tarde, Cocodrilo.md
-│   ├── 04 - Ouija Board.md                ·  04 - Tabla Ouija.md
-│   ├── 05 - Sign Bunny.md                 ·  05 - Conejito de Señalización.md
-│   ├── Compile & Execute.md               ·  Compilar y Ejecutar.md
-│   ├── 06 - Data Types.md                 ·  06 - Tipos de Datos.md
-│   ├── 07 - Declaration of Independence.md  ·  07 - Declaración de Independencia.md
-│   ├── 08 - IPO.md                        ·  08 - IPO (Entrada, Proceso, Salida).md
-│   ├── 09 - Temperature.md                ·  09 - Temperatura.md
-│   ├── 10 - Knighthood.md                 ·  10 - Caballería.md
-│   ├── 11 - Month-over-Month (MoM).md     ·  11 - Mes a Mes (MoM).md
-│   ├── 12 - Cat Years.md                  ·  12 - Años Gato.md
-│   ├── 13 - Coin Flip.md                  ·  13 - Lanzamiento de Moneda.md
-│   ├── 14 - Fever.md                      ·  14 - Fiebre.md
-│   ├── 15 - Levels & Ranks.md             ·  15 - Niveles y Rangos.md
-│   ├── 16 - Fortune Cookie.md             ·  16 - Galleta de la Fortuna.md
-│   ├── 17 - Voting.md                     ·  17 - Votación.md
-│   ├── 18 - Trivia Quiz.md                ·  18 - Trivial Quiz.md
-│   ├── 19 - Enter PIN.md                  ·  19 - Introducir PIN.md
-│   ├── 20 - Guess the Number.md           ·  20 - Adivina el Número.md
-│   ├── 21 - Counting Sheep.md             ·  21 - Contando Ovejas.md
-│   ├── 22 - 99 Bottles.md                 ·  22 - 99 Botellas.md
-│   ├── 23 - Fizz Buzz.md                  ·  23 - Fizz Buzz (Reto).md
-│   ├── 24 - Survival Gear.md              ·  24 - Equipo de Supervivencia.md
-│   ├── 25 - Lemonade Stand.md             ·  25 - Puesto de Limonada.md
-│   ├── 26 - Order Cart.md                 ·  26 - Carrito de Compras.md
-│   ├── 27 - Roadtrip Playlist.md          ·  27 - Lista de Reproducción de Viaje.md
-│   ├── 28 - Sum of Even - Product of Odd.md  ·  28 - Suma de Pares - Producto de Impares.md
-│   ├── Arrays.md                          ·  Arrays en C++.md
-│   ├── 29 - D.R.Y..md                     ·  29 - D.R.Y. (No te repitas).md
-│   ├── 30 - Food Menu.md                  ·  30 - Menú de Comida.md
-│   ├── 31 - OOO.md                        ·  31 - Fuera de Oficina.md
-│   ├── 32 - Conversions.md                ·  32 - Conversiones.md
-│   ├── 32 - Conversions (Continuation).md ·  32 - Conversiones (Continuación).md
-│   ├── 33 - Tips Calculator.md            ·  33 - Calculadora de Propinas.md
-│   ├── Scope in C++.md                    ·  Ámbito en C++.md
-│   ├── 34 - Restaurants.md                ·  34 - Restaurantes.md
-│   ├── 35 - Public vs. Private.md         ·  35 - Público vs Privado.md
-│   ├── 36 - Bank Accounts.md              ·  36 - Cuentas Bancarias.md
-│   ├── 37 - Bank Accounts (Continuation).md  ·  37 - Cuentas Bancarias (Continuación).md
-│   ├── 38 - Classic Cars.md               ·  38 - Coches Clásicos.md
-│   ├── 39 - Pet Rescue.md                 ·  39 - Rescate de Mascotas.md
-│   ├── 39 - Pet Rescue (Continuation).md  ·  39 - Rescate de Mascotas (Continuación).md
-│   ├── 40 - Memories.md                   ·  40 - Recuerdos.md
-│   ├── 40 - Memories (Continuation).md    ·  40 - Recuerdos (Continuación).md
-│   ├── 41 - A Few Pointers.md             ·  41 - Unos Punteros.md
-│   ├── 42 - Dereference.md                ·  42 - Desreferenciación.md
-│   ├── 43 - References vs. Pointers.md    ·  43 - Referencias vs Punteros.md
-│   ├── 44 - Nullptr.md                    ·  44 - Puntero Nulo.md
-│   └── 45 - The End.md                    ·  45 - El Fin.md
+│   ├── 00b - Field Manual I.md               ·  00b - Manual de Campo I.md
+│   ├── 00c - Field Manual II.md              ·  00c - Manual de Campo II.md
+│   ├── 01 - Cold Start.md                    ·  01 - Arranque en Frío.md
+│   ├── 02 - First Light.md                   ·  02 - Primera Luz.md
+│   ├── 03 - The Skeleton File.md             ·  03 - El Archivo Esqueleto.md
+│   ├── 04 - Notes in the Margin.md           ·  04 - Notas al Margen.md
+│   ├── 05 - Escape Velocity.md               ·  05 - Velocidad de Escape.md
+│   ├── 06 - From Source to Switch.md         ·  06 - De Fuente a Interruptor.md
+│   ├── 07 - Raw Materials.md                 ·  07 - Materia Prima.md
+│   ├── 08 - Naming the Parts.md              ·  08 - Nombrar las Piezas.md
+│   ├── 09 - In, Through, Out.md              ·  09 - Entra, Procesa, Sale.md
+│   ├── 10 - Numbers That Lie.md              ·  10 - Números que Mienten.md
+│   ├── 11 - Echo Chamber.md                  ·  11 - Cámara de Eco.md
+│   ├── 12 - Speak to the Machine.md          ·  12 - Hablar con la Máquina.md
+│   ├── 13 - Level Scaling.md                 ·  13 - Escalado de Niveles.md
+│   ├── 14 - Forked Roads.md                  ·  14 - Caminos Bifurcados.md
+│   ├── 15 - Doors and Keys.md                ·  15 - Puertas y Llaves.md
+│   ├── 16 - Tiers and Thresholds.md          ·  16 - Rangos y Umbrales.md
+│   ├── 17 - Loaded Dice.md                   ·  17 - Dados Cargados.md
+│   ├── 18 - Guards and Gates.md              ·  18 - Guardias y Portones.md
+│   ├── 19 - Trial by Question.md             ·  19 - Prueba de Preguntas.md
+│   ├── 20 - The Loop That Waits.md           ·  20 - El Bucle que Espera.md
+│   ├── 21 - Holding Patterns.md              ·  21 - Patrones de Espera.md
+│   ├── 22 - Tick by Tick.md                  ·  22 - Tic a Tic.md
+│   ├── 23 - Countdown Protocol.md            ·  23 - Protocolo de Cuenta Atrás.md
+│   ├── 24 - The Pattern Trial.md             ·  24 - La Prueba del Patrón.md
+│   ├── 25 - The Satchel.md                   ·  25 - La Alforja.md
+│   ├── 26 - Slot and Index.md                ·  26 - Ranura e Índice.md
+│   ├── 27 - Pack and Unpack.md               ·  27 - Cargar y Descargar.md
+│   ├── 28 - Walking the Satchel.md           ·  28 - Recorrer la Alforja.md
+│   ├── 29 - The Alchemist's Tally.md         ·  29 - El Cómputo del Alquimista.md
+│   ├── 30 - Stone Racks and Satchels.md      ·  30 - Estantes de Piedra y Alforjas.md
+│   ├── 31 - One Spell, Many Casts.md         ·  31 - Un Hechizo, Muchos Usos.md
+│   ├── 32 - The Tavern Board.md              ·  32 - El Tablón de la Taberna.md
+│   ├── 33 - Filling the Slots.md             ·  33 - Llenar las Ranuras.md
+│   ├── 34 - Handing Back the Loot.md         ·  34 - Devolver el Botín.md
+│   ├── 35 - Chained Returns.md               ·  35 - Retornos Encadenados.md
+│   ├── 36 - The Gate Tax.md                  ·  36 - El Impuesto del Portal.md
+│   ├── 37 - Where Names Live.md              ·  37 - Dónde Viven los Nombres.md
+│   ├── 38 - Guild Blueprints.md              ·  38 - Planos del Gremio.md
+│   ├── 39 - Sealed and Open Doors.md         ·  39 - Puertas Selladas y Abiertas.md
+│   ├── 40 - The Relic Safe.md                ·  40 - La Caja Fuerte de Reliquias.md
+│   ├── 41 - The Relic Safe, Wired.md         ·  41 - La Caja Fuerte, Conectada.md
+│   ├── 42 - Spawn With Stats.md              ·  42 - Nacer con Atributos.md
+│   ├── 43 - The Familiar Codex.md            ·  43 - El Códice de Familiares.md
+│   ├── 44 - The Familiar Codex, Animated.md  ·  44 - El Códice, Animado.md
+│   ├── 45 - Where Things Live.md             ·  45 - Dónde Viven las Cosas.md
+│   ├── 46 - The Address-Of Lens.md           ·  46 - La Lente Dirección-De.md
+│   ├── 47 - Handles to Memory.md             ·  47 - Asas a la Memoria.md
+│   ├── 48 - Reaching Through the Handle.md   ·  48 - Alcanzar a Través del Asa.md
+│   ├── 49 - Aliases vs Handles.md            ·  49 - Alias vs Asas.md
+│   ├── 50 - The Empty Handle.md              ·  50 - El Asa Vacía.md
+│   └── 51 - The Last Ember.md                ·  51 - La Última Brasa.md
 │
 └── 🤖 GenAI/                              <-- 6 temas · EN + ES
     ├── README.md          ·  README-ES.md
