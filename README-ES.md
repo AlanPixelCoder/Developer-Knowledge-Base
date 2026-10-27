@@ -28,7 +28,7 @@ recorrer una carpeta.
 | :--- | :--- | :--- | :--- | :--- |
 | 🐍 **Python** | Sintaxis básica, control de flujo, estructuras de datos, POO y ecosistemas | 11 EN · 11 ES | 🟢 Activo | [EN](%F0%9F%90%8D%20Python/README.md) · [ES](%F0%9F%90%8D%20Python/README-ES.md) |
 | 🚀 **Git & GitHub** | Control de versiones, estrategias de ramificación, colaboración y flujos de PR | 4 EN · 4 ES | 🟢 Activo | [EN](%F0%9F%9A%80%20Git%20&%20GitHub/README.md) · [ES](%F0%9F%9A%80%20Git%20&%20GitHub/README-ES.md) |
-| 🟣 **CSharp** | Tipado fuerte, POO, ecosistema .NET y arquitectura del motor Unity | 8 EN · 8 ES | 🟢 Activo | [EN](%F0%9F%9F%A3%20CSharp/README.md) · [ES](%F0%9F%9F%A3%20CSharp/README-ES.md) |
+| 🟣 **CSharp** | Herramientas de Emberforge: tipos estáticos, control de flujo, matrices, métodos y un proyecto de consola | 8 EN · 8 ES | 🟢 Activo | [EN](%F0%9F%9F%A3%20CSharp/README.md) · [ES](%F0%9F%9F%A3%20CSharp/README-ES.md) |
 | 🧮 **Estructuras de Datos y Algoritmos** | Estructuras de datos fundamentales, eficiencia de algoritmos y resolución de problemas | 5 EN · 5 ES | 🟢 Activo | [EN](%F0%9F%A7%AE%20Data%20Structures%20&%20Algorithms/README.md) · [ES](%F0%9F%A7%AE%20Data%20Structures%20&%20Algorithms/README-ES.md) |
 | 🖥️ **Línea de Comandos** | Navegación en la terminal, gestión de archivos, permisos y flujo de trabajo en la shell | 13 EN · 13 ES | 🟢 Activo | [EN](%F0%9F%96%A5%EF%B8%8F%20Command%20Line/README.md) · [ES](%F0%9F%96%A5%EF%B8%8F%20Command%20Line/README-ES.md) |
 | 🤖 **GenAI** | Cómo funcionan los LLM, ingeniería de prompts, embeddings y modos de fallo de la IA | 6 EN · 6 ES | 🟢 Activo | [EN](%F0%9F%A4%96%20GenAI/README.md) · [ES](%F0%9F%A4%96%20GenAI/README-ES.md) |
@@ -115,14 +115,14 @@ Developer-Knowledge-Base/
 │
 ├── 🟣 CSharp/                             <-- 8 temas · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 00b - CSharp Cheatsheet.md         ·  00b - Chuleta de CSharp.md
-│   ├── 01 - Press Start.md                ·  01 - Pulsa Start.md
-│   ├── 02 - Typecast.md                   ·  02 - Conversión de Tipos.md
-│   ├── 03 - Control Flow.md               ·  03 - Control de Flujo.md
-│   ├── 04 - Loops.md                      ·  04 - Bucles.md
-│   ├── 05 - Arrays.md                     ·  05 - Arreglos.md
-│   ├── 06 - Methods.md                    ·  06 - Métodos.md
-│   └── Mad Dungeon Master - Checkpoint Project.md  ·  Mad Dungeon Master - Proyecto de Hito.md
+│   ├── 00b - Emberforge Field Manual      ·  00b - Manual de Campo de Emberforge
+│   ├── 01 - Blueprint to Binary           ·  01 - Del Plano al Binario
+│   ├── 02 - Typed Blueprints              ·  02 - Planos Tipados
+│   ├── 03 - Triage Logic                  ·  03 - Lógica de Triaje
+│   ├── 04 - Wave Cadence                  ·  04 - Cadencia de Oleadas
+│   ├── 05 - Loadout Roster                ·  05 - Lista de Carga
+│   ├── 06 - Toolsmith Methods             ·  06 - Métodos de Herrería
+│   └── Ironledger Loadout Stress Test     ·  Prueba de Esfuerzo del Equipamiento de Ironledger
 │
 ├── 🧮 Data Structures & Algorithms/       <-- 5 temas · EN + ES
 │   ├── README.md          ·  README-ES.md

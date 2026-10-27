@@ -1,20 +1,17 @@
-# 🟣 C#: Object-Oriented Foundations & Game Systems Architecture (MOC)
+# 🟣 C#: Emberforge Atelier — Ironledger Tooling (MOC)
 
 **Español:** [README-ES.md](./README-ES.md)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-C%23_12.0-purple?style=for-the-badge&logo=csharp" alt="C#">
   <img src="https://img.shields.io/badge/Ecosystem-.NET_8.0-512BD4?style=for-the-badge&logo=dotnet" alt=".NET">
-  <img src="https://img.shields.io/badge/Engine-Unity_Support-black?style=for-the-badge&logo=unity" alt="Unity">
+  <img src="https://img.shields.io/badge/Studio-Emberforge_Atelier-black?style=for-the-badge" alt="Emberforge">
+  <img src="https://img.shields.io/badge/Project-Ironledger_Tactics-8A2BE2?style=for-the-badge" alt="Ironledger">
   <img src="https://img.shields.io/badge/Vault-Obsidian-7B3FE4?style=for-the-badge&logo=obsidian" alt="Obsidian">
-  <img src="https://img.shields.io/badge/Environment-macOS-lightgrey?style=for-the-badge&logo=apple" alt="macOS">
 </p>
 
 **Note:**
-This repository module serves as the central Map of Content (MOC) for C# syntax, object-oriented design patterns, .NET ecosystem fundamentals, and Unity game architecture notes inside this Obsidian vault. Every example and exercise is framed around video game development (combat, loot, quests, party play, and engine tooling).
-
-**Tip:**
-**Learning Roadmap:** Master strong typing and core control structures first, then progress into Object-Oriented Programming (OOP) paradigms, memory management, and real-world game system engineering.
+This module tracks console tooling built by Emberforge Atelier for *Ironledger* (turn-based tactics). Examples cover bootstraps, calibrators, triage, wave simulators, rosters, and toolsmith methods.
 
 ---
 
@@ -22,55 +19,17 @@ This repository module serves as the central Map of Content (MOC) for C# syntax,
 
 ### 📚 Reference & Quick Guides
 
-* **Cheatsheets & Syntax Rules:**
-  * [00b - CSharp Cheatsheet](./00b%20-%20CSharp%20Cheatsheet.md) — Type system, value vs reference types, stack vs heap, nullables, strings, arrays, lists, control flow, methods, common gotchas, and a Python bridge.
+* **Field Guide:**
+  * [00b - Emberforge Field Manual](./00b%20-%20Emberforge%20Field%20Manual.md) — Types, conversions, operators, control flow, arrays, methods, and gotchas.
 
 ---
 
-### 🧠 1. Core Language Foundations
+### 🧠 Core Language Foundations
 
-* **[01 - Press Start](./01%20-%20Press%20Start.md)** — C# lineage, .NET CLR architecture, compilation pipeline, and top-level statements in Program.cs.
-* **[02 - Typecast](./02%20-%20Typecast.md)** — Value types vs. reference types, explicit/implicit conversion, and string immutability.
-* **[03 - Control Flow](./03%20-%20Control%20Flow.md)** — Decision making with if/else statements, logical operators (`&&`, `||`, `!`), and user input evaluation.
-* **[04 - Loops](./04%20-%20Loops.md)** — Executing repetitive control flow blocks with while/for loops and user-driven exit conditions.
-* **[05 - Arrays](./05%20-%20Arrays.md)** — Single-dimensional arrays, indexing, element iteration, and multi-array parallel data processing.
-* **[06 - Methods](./06%20-%20Methods.md)** — Reusable code blocks, parameter passing, return values, and method composition.
-* **[Mad Dungeon Master - Checkpoint Project](./Mad%20Dungeon%20Master%20-%20Checkpoint%20Project.md)** — Interactive C# boss-battle script generator applying loops, logic operators, and user input.
-
----
-
-### 🏗️ 2. Object-Oriented & Software Architecture
-
-* **Encapsulation & Abstraction:** `04 - Classes & Structs` — *Fields, auto-properties, constructors, and stack vs. heap allocation.* `[Planned]`
-* **Inheritance & Polymorphism:** `05 - Interfaces & Abstract Classes` — *Virtual methods, overrides, interface implementation, and contract-driven design.* `[Planned]`
-* **Advanced Features:** `06 - Generics & LINQ` — *Type-safe data collections, delegates, events, Lambdas, and Language Integrated Query.* `[Planned]`
-
----
-
-### 🎮 3. Game Development & Engine Integration
-
-* **Unity Lifecycle Scripts:** `07 - MonoBehaviour Architecture` — *`Awake`, `Start`, `Update`, `FixedUpdate` cycles and component linkage.* `[Planned]`
-* **Game Systems Design:** `08 - Scriptable Objects & State Machines` — *Data-driven system design, decoupled events, and state-driven game logic.* `[Planned]`
-
----
-
-<details>
-<summary><b>🔍 Quick Access Checklist</b></summary>
-
-- [x] Initial setup & `Program.cs` execution
-- [ ] Primitive types & String operations
-- [ ] Control flow & Pattern matching
-- [ ] OOP Core (Classes, Interfaces, Polymorphism)
-- [ ] Unity MonoBehaviour integration
-- [ ] Combat, loot & quest systems in C#
-</details>
-
-```mermaid
-flowchart LR
-    A[C# Core Foundations] --> B[OOP & Architecture]
-    B --> C[Unity Engine & Systems]
-
-    click A "#" "Data types, control flow, methods & memory"
-    click B "#" "Classes, inheritance, LINQ & interfaces"
-    click C "#" "MonoBehaviour lifecycle & ScriptableObjects"
-```
+* **[01 - Blueprint to Binary](./01%20-%20Blueprint%20to%20Binary.md)** — C# lineage, .NET/CLR, compilation pipeline, and explicit class-based `Main()`.
+* **[02 - Typed Blueprints](./02%20-%20Typed%20Blueprints.md)** — Value vs reference types, implicit/explicit conversion, string immutability, and `var`.
+* **[03 - Triage Logic](./03%20-%20Triage%20Logic.md)** — `if/else if/else`, comparison and logical operators, short-circuiting, and user input.
+* **[04 - Wave Cadence](./04%20-%20Wave%20Cadence.md)** — `while`/`for`, sentinel loops, accumulation, and loop control.
+* **[05 - Loadout Roster](./05%20-%20Loadout%20Roster.md)** — Single-dimensional arrays, 0-based indexing, `.Length`, parallel arrays, and iteration.
+* **[06 - Toolsmith Methods](./06%20-%20Toolsmith%20Methods.md)** — Methods, parameters/arguments, `void` and return values, composition.
+* **[Ironledger Loadout Stress Test](./Ironledger%20Loadout%20Stress%20Test.md)** — Interactive console stress test combining loops, logic, and input.
