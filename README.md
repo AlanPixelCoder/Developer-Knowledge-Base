@@ -34,7 +34,8 @@ Every domain is self-contained and opens with a **MOC** (Map of Content): an ind
 | 🎨 **CSS** | Styling, selectors, colors, the box model, positioning & flexbox layouts | 14 EN · 14 ES | 🟢 Active | [EN](%F0%9F%8E%A8%20CSS/README.md) · [ES](%F0%9F%8E%A8%20CSS/README-ES.md) |
 | 🟨 **JavaScript** | Variables, control flow, arrays, functions, objects, the DOM & events | 10 EN · 10 ES | 🟢 Active | [EN](%F0%9F%9F%A8%20JavaScript/README.md) · [ES](%F0%9F%9F%A8%20JavaScript/README-ES.md) |
 | ⚛️ **React** | Components, JSX, props & state, hooks, context, fetching & routing | 17 EN · 17 ES | 🟢 Active | [EN](%E2%9A%9B%EF%B8%8F%20React/README.md) · [ES](%E2%9A%9B%EF%B8%8F%20React/README-ES.md) |
-| ⚙️ **Software Engineering** | Design patterns, algorithms & system architecture | — | 🟡 Planned | *Coming soon* |
+| ⚙️ **C++** | Systems programming, manual memory, classes, pointers & references | 53 EN · 53 ES | 🟢 Active | [EN](%E2%9A%99%EF%B8%8F%20C%2B%2B/README.md) · [ES](%E2%9A%99%EF%B8%8F%20C%2B%2B/README-ES.md) |
+| 🏗️ **Software Engineering** | Design patterns, algorithms & system architecture | — | 🟡 Planned | *Coming soon* |
 | 🎮 **Game Architecture** | Interactive mechanics, engine patterns & physics | — | 🟡 Planned | *Coming soon* |
 
 **Topic numbering.** Notes are prefixed so a domain reads in learning order — `01`, `02`,
@@ -46,7 +47,9 @@ starts from the Python of 🐍 **Python** and builds a next-token predictor, a p
 and a semantic search engine in pure Python, so the AI tooling is understood from the
 inside rather than borrowed from an API. ⚛️ **React** is its web counterpart: it starts
 from the 🟨 **JavaScript**, 🌐 **HTML** and 🎨 **CSS** modules and turns their static
-pages into a living single-page application.
+pages into a living single-page application. ⚙️ **C++** is the low-level counterpart of
+that stack: the same logic, the same loops and objects, but with the memory and the types
+in your hands — the step between writing a game and understanding the machine it runs on.
 
 **How to read a note.** Each one is a self-contained lesson: a concept, a runnable
 example, its printed output, and the traps worth knowing. Code blocks are executable as
@@ -198,6 +201,62 @@ Developer-Knowledge-Base/
 │   ├── 13 - The Courier.md               ·  13 - El Mensajero.md
 │   ├── 14 - The World Map.md             ·  14 - El Mapa del Mundo.md
 │   └── 15 - The Final Boss.md            ·  15 - El Jefe Final.md
+│
+├── ⚙️ C++/                                <-- 53 topics · EN + ES
+│   ├── README.md          ·  README-ES.md
+│   ├── 00b - C++ Cheatsheet.md            ·  00b - Chuleta de C++.md
+│   ├── 00c - C++ Cheatsheet II.md         ·  00c - Chuleta de C++ II.md
+│   ├── 01 - The Program.md                ·  01 - El Programa.md
+│   ├── 02 - Howdy!.md                     ·  02 - ¡Howdy!.md
+│   ├── 03 - See Ya Later Alligator.md     ·  03 - Nos Vemos Más Tarde, Cocodrilo.md
+│   ├── 04 - Ouija Board.md                ·  04 - Tabla Ouija.md
+│   ├── 05 - Sign Bunny.md                 ·  05 - Conejito de Señalización.md
+│   ├── Compile & Execute.md               ·  Compilar y Ejecutar.md
+│   ├── 06 - Data Types.md                 ·  06 - Tipos de Datos.md
+│   ├── 07 - Declaration of Independence.md  ·  07 - Declaración de Independencia.md
+│   ├── 08 - IPO.md                        ·  08 - IPO (Entrada, Proceso, Salida).md
+│   ├── 09 - Temperature.md                ·  09 - Temperatura.md
+│   ├── 10 - Knighthood.md                 ·  10 - Caballería.md
+│   ├── 11 - Month-over-Month (MoM).md     ·  11 - Mes a Mes (MoM).md
+│   ├── 12 - Cat Years.md                  ·  12 - Años Gato.md
+│   ├── 13 - Coin Flip.md                  ·  13 - Lanzamiento de Moneda.md
+│   ├── 14 - Fever.md                      ·  14 - Fiebre.md
+│   ├── 15 - Levels & Ranks.md             ·  15 - Niveles y Rangos.md
+│   ├── 16 - Fortune Cookie.md             ·  16 - Galleta de la Fortuna.md
+│   ├── 17 - Voting.md                     ·  17 - Votación.md
+│   ├── 18 - Trivia Quiz.md                ·  18 - Trivial Quiz.md
+│   ├── 19 - Enter PIN.md                  ·  19 - Introducir PIN.md
+│   ├── 20 - Guess the Number.md           ·  20 - Adivina el Número.md
+│   ├── 21 - Counting Sheep.md             ·  21 - Contando Ovejas.md
+│   ├── 22 - 99 Bottles.md                 ·  22 - 99 Botellas.md
+│   ├── 23 - Fizz Buzz.md                  ·  23 - Fizz Buzz (Reto).md
+│   ├── 24 - Survival Gear.md              ·  24 - Equipo de Supervivencia.md
+│   ├── 25 - Lemonade Stand.md             ·  25 - Puesto de Limonada.md
+│   ├── 26 - Order Cart.md                 ·  26 - Carrito de Compras.md
+│   ├── 27 - Roadtrip Playlist.md          ·  27 - Lista de Reproducción de Viaje.md
+│   ├── 28 - Sum of Even - Product of Odd.md  ·  28 - Suma de Pares - Producto de Impares.md
+│   ├── Arrays.md                          ·  Arrays en C++.md
+│   ├── 29 - D.R.Y..md                     ·  29 - D.R.Y. (No te repitas).md
+│   ├── 30 - Food Menu.md                  ·  30 - Menú de Comida.md
+│   ├── 31 - OOO.md                        ·  31 - Fuera de Oficina.md
+│   ├── 32 - Conversions.md                ·  32 - Conversiones.md
+│   ├── 32 - Conversions (Continuation).md ·  32 - Conversiones (Continuación).md
+│   ├── 33 - Tips Calculator.md            ·  33 - Calculadora de Propinas.md
+│   ├── Scope in C++.md                    ·  Ámbito en C++.md
+│   ├── 34 - Restaurants.md                ·  34 - Restaurantes.md
+│   ├── 35 - Public vs. Private.md         ·  35 - Público vs Privado.md
+│   ├── 36 - Bank Accounts.md              ·  36 - Cuentas Bancarias.md
+│   ├── 37 - Bank Accounts (Continuation).md  ·  37 - Cuentas Bancarias (Continuación).md
+│   ├── 38 - Classic Cars.md               ·  38 - Coches Clásicos.md
+│   ├── 39 - Pet Rescue.md                 ·  39 - Rescate de Mascotas.md
+│   ├── 39 - Pet Rescue (Continuation).md  ·  39 - Rescate de Mascotas (Continuación).md
+│   ├── 40 - Memories.md                   ·  40 - Recuerdos.md
+│   ├── 40 - Memories (Continuation).md    ·  40 - Recuerdos (Continuación).md
+│   ├── 41 - A Few Pointers.md             ·  41 - Unos Punteros.md
+│   ├── 42 - Dereference.md                ·  42 - Desreferenciación.md
+│   ├── 43 - References vs. Pointers.md    ·  43 - Referencias vs Punteros.md
+│   ├── 44 - Nullptr.md                    ·  44 - Puntero Nulo.md
+│   └── 45 - The End.md                    ·  45 - El Fin.md
 │
 └── 🤖 GenAI/                              <-- 6 topics · EN + ES
     ├── README.md          ·  README-ES.md
