@@ -29,12 +29,25 @@ ROOT = os.path.dirname(HERE)
 
 # (nombre del verificador, fichero a tocar, transformación o marcador, texto
 #  que debe aparecer en la salida al detectar el fallo)
+def first_note(folder):
+    """Primera nota real del modulo, siempre la inglesa: los nombres de archivo
+    cambian con cada reescritura, la marca `**Spanish version:**` no."""
+    d = os.path.join(ROOT, folder)
+    for name in sorted(os.listdir(d)):
+        if not name.endswith('.md') or name.startswith('README'):
+            continue
+        text = open(os.path.join(d, name), encoding='utf-8').read()
+        if '**Spanish version:**' in text:
+            return f'{folder}/{name}'
+    raise SystemExit(f'modulo sin notas en ingles: {folder}')
+
+
 PAIR = '<add a note with no Spanish mirror>'
 ORPHAN = '<add a note no README links to>'
 FAULTS = [
-    ('check_notes.py', '🖥️ Command Line/01 - In The Beginning.md',
+    ('check_notes.py', first_note('🖥️ Command Line'),
      lambda t: t + '\n```\n', 'sin cerrar'),
-    ('check_notes.py', '🐍 Python/02 - Control Flow.md',
+    ('check_notes.py', first_note('🐍 Python'),
      lambda t: t + '\n```pythonx\nx = 1\n```\n', 'etiqueta de fence'),
     ('check_notes.py', 'README.md',
      lambda t: t + '\n| A | B | C |\n| :--- | :--- | :--- |\n| 1 | 2 |\n',
@@ -81,7 +94,7 @@ def orphan_fault(root):
 
 def pair_fault(root):
     """Add a numbered note with no Spanish mirror."""
-    src = os.path.join(root, '🐍 Python', '02 - Control Flow.md')
+    src = os.path.join(root, first_note('🐍 Python'))
     dst = os.path.join(root, '🐍 Python', '99 - Nota Sin Traducir.md')
     shutil.copyfile(src, dst)
 

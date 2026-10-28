@@ -2,14 +2,15 @@
 
 **Español:** [README-ES.md](./README-ES.md)
 
-Welcome to the Data Structures & Algorithms knowledge base. This directory covers core concepts, built-in data structures in Python, algorithmic problem-solving, complexity analysis, and technical interview preparation — all framed with video game examples (bestiary scans, loot tables, NPC pathfinding, and skill-based matchmaking).
+This module charts the Wayfarer Survey: route-planning across a fractured coastline. Each lesson treats supply lines as a test case — searching a manifest for a missing crate, measuring cost as the map grows, filing cargo on racked berths, and sorting waypoints by bearing. The goal is not memorizing names, but learning to pick a structure, write an explicit plan, and count worst-case work.
 
 ---
 
 ## 📚 Core Modules
 
-1. **[01 - Introduction to DSA](./01%20-%20Introduction%20to%20DSA.md)** — Core definitions, importance in software engineering, built-in Python data structures (Lists, Dictionaries, Sets), and fundamental concepts.
-2. **[02 - Algorithms & Efficiency](./02%20-%20Algorithms%20&%20Efficiency.md)** — Algorithmic thinking, Insertion Sort, Linear vs. Binary Search performance, worst-case analysis, and dungeon route optimization.
-3. **[03 - Lists & Linear Search](./03%20-%20Lists%20&%20Linear%20Search.md)** — Review of Python Lists, indexing, slicing, common list methods, Linear Search algorithm implementation, and worst-case performance analysis.
-4. **[04 - Binary Search](./04%20-%20Binary%20Search.md)** — Concept of divide and conquer, searching in sorted arrays, iterative and recursive implementations, and edge case handling.
-5. **[05 - Selection Sort](./05%20-%20Selection%20Sort.md)** — Nested loops, building a sorted section in-place, swapping minimum elements, and quadratic time complexity analysis ($O(N^2)$).
+1. **[01 - The Wayfarer Charter](./01%20-%20The%20Wayfarer%20Charter.md)** — Structure vs algorithm, lists as manifests, linear thinking, and why cost must be traced as the map grows.
+2. **[02 - Tallying the Tide](./02%20-%20Tallying%20the%20Tide.md)** — Measuring work, Big O families, growth tables, the trade-off between linear and binary search, and context over speed.
+3. **[03 - Crates in the Queue](./03%20-%20Crates%20in%20the%20Queue.md)** — Lists, indexing, slicing, list methods, and tracing a linear scan on an unordered jetty queue.
+4. **[04 - Split the Manifest](./04%20-%20Split%20the%20Manifest.md)** — Divide and conquer on a racked berth, iterative and recursive binary search, edge cases, and O(log n) with the price of sorting.
+5. **[05 - Sort by Bearing](./05%20-%20Sort%20by%20Bearing.md)** — Selection sort on the filing bench, in-place swaps, the sorted prefix invariant, exact comparison counts, and O(n²).
+

@@ -9,7 +9,7 @@
 
 <hr style="border: none; height: 3px; background: linear-gradient(90deg, transparent, #7C5CFF, #00C2A8, #7C5CFF, transparent); margin: 24px 0;" />
 
-One page for the whole module. Everything here was built in [[01 - How AI Thinks]] and [[03 - Embeddings & Semantic Search]]; nothing is new. Prompt patterns and the risk checklist live in [[00c - GenAI Cheatsheet II]].
+One page for the whole module. Everything here was built in [[01 - Beacon Signals]] and [[03 - Meadow Index]]; nothing is new. Prompt patterns and the risk checklist live in [[00c - GenAI Cheatsheet II]].
 
 ---
 

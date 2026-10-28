@@ -323,6 +323,6 @@ shop.sell("Dragon"); // Out of stock!
 - [[00c - JavaScript Cheatsheet II]] — the DOM, `.style`, events and `addEventListener`
 - [[01 - Insert Coin]] — console and comments, where this sheet begins
 - [[07 - Character Sheet]] — objects, the last stop before the DOM
-- [[12 - Flexbox]] — laying out the page this language will drive
+- [[12 - The Tide Run]] — laying out the page this language will drive
 
 ---

@@ -24,16 +24,16 @@ Every domain is self-contained and opens with a **MOC** (Map of Content): an ind
 
 | Domain | Description | Notes | Status | Map of Content |
 | :--- | :--- | :--- | :--- | :--- |
-| 🐍 **Python** | Core syntax, control flow, data structures, OOP & ecosystems | 11 EN · 11 ES | 🟢 Active | [EN](%F0%9F%90%8D%20Python/README.md) · [ES](%F0%9F%90%8D%20Python/README-ES.md) |
-| 🚀 **Git & GitHub** | Version control, branching strategies, collaboration & PR workflows | 4 EN · 4 ES | 🟢 Active | [EN](%F0%9F%9A%80%20Git%20&%20GitHub/README.md) · [ES](%F0%9F%9A%80%20Git%20&%20GitHub/README-ES.md) |
+| 🐍 **Python** | Beacon telemetry scripts: types, loops, collections, classes & modules | 10 EN · 10 ES | 🟢 Active | [EN](%F0%9F%90%8D%20Python/README.md) · [ES](%F0%9F%90%8D%20Python/README-ES.md) |
+| 🚀 **Git & GitHub** | Wayfarer: repository history, branching, conflict repair & review | 4 EN · 4 ES | 🟢 Active | [EN](%F0%9F%9A%80%20Git%20&%20GitHub/README.md) · [ES](%F0%9F%9A%80%20Git%20&%20GitHub/README-ES.md) |
 | 🟣 **CSharp** | Emberforge tooling: static types, control flow, arrays, methods & a console capstone | 8 EN · 8 ES | 🟢 Active | [EN](%F0%9F%9F%A3%20CSharp/README.md) · [ES](%F0%9F%9F%A3%20CSharp/README-ES.md) |
-| 🧮 **Data Structures & Algorithms** | Core data structures, algorithm efficiency & problem solving | 5 EN · 5 ES | 🟢 Active | [EN](%F0%9F%A7%AE%20Data%20Structures%20&%20Algorithms/README.md) · [ES](%F0%9F%A7%AE%20Data%20Structures%20&%20Algorithms/README-ES.md) |
-| 🖥️ **Command Line** | Terminal navigation, file management, permissions & shell workflow | 13 EN · 13 ES | 🟢 Active | [EN](%F0%9F%96%A5%EF%B8%8F%20Command%20Line/README.md) · [ES](%F0%9F%96%A5%EF%B8%8F%20Command%20Line/README-ES.md) |
-| 🤖 **GenAI** | How LLMs work, prompt engineering, embeddings & AI failure modes | 6 EN · 6 ES | 🟢 Active | [EN](%F0%9F%A4%96%20GenAI/README.md) · [ES](%F0%9F%A4%96%20GenAI/README-ES.md) |
-| 🌐 **HTML** | Web page structure, elements, attributes, styles, forms & semantic regions | 6 EN · 6 ES | 🟢 Active | [EN](%F0%9F%8C%90%20HTML/README.md) · [ES](%F0%9F%8C%90%20HTML/README-ES.md) |
-| 🎨 **CSS** | Styling, selectors, colors, the box model, positioning & flexbox layouts | 14 EN · 14 ES | 🟢 Active | [EN](%F0%9F%8E%A8%20CSS/README.md) · [ES](%F0%9F%8E%A8%20CSS/README-ES.md) |
-| 🟨 **JavaScript** | Variables, control flow, arrays, functions, objects, the DOM & events | 10 EN · 10 ES | 🟢 Active | [EN](%F0%9F%9F%A8%20JavaScript/README.md) · [ES](%F0%9F%9F%A8%20JavaScript/README-ES.md) |
-| ⚛️ **React** | Components, JSX, props & state, hooks, context, fetching & routing | 17 EN · 17 ES | 🟢 Active | [EN](%E2%9A%9B%EF%B8%8F%20React/README.md) · [ES](%E2%9A%9B%EF%B8%8F%20React/README-ES.md) |
+| 🧮 **Data Structures & Algorithms** | Wayfarer Survey: searching, sorting & the price of growth | 5 EN · 5 ES | 🟢 Active | [EN](%F0%9F%A7%AE%20Data%20Structures%20&%20Algorithms/README.md) · [ES](%F0%9F%A7%AE%20Data%20Structures%20&%20Algorithms/README-ES.md) |
+| 🖥️ **Command Line** | Wayfarer Depot: navigation, permissions, pipes & file pipelines | 13 EN · 13 ES | 🟢 Active | [EN](%F0%9F%96%A5%EF%B8%8F%20Command%20Line/README.md) · [ES](%F0%9F%96%A5%EF%B8%8F%20Command%20Line/README-ES.md) |
+| 🤖 **GenAI** | Beacon intelligence: token prediction, briefs, embeddings & fault modes | 6 EN · 6 ES | 🟢 Active | [EN](%F0%9F%A4%96%20GenAI/README.md) · [ES](%F0%9F%A4%96%20GenAI/README-ES.md) |
+| 🌐 **HTML** | Tideglass Observatory: document structure, semantics, forms & tables | 6 EN · 6 ES | 🟢 Active | [EN](%F0%9F%8C%90%20HTML/README.md) · [ES](%F0%9F%8C%90%20HTML/README-ES.md) |
+| 🎨 **CSS** | Tideglass Observatory: cascade, box model, type scale & flex layout | 14 EN · 14 ES | 🟢 Active | [EN](%F0%9F%8E%A8%20CSS/README.md) · [ES](%F0%9F%8E%A8%20CSS/README-ES.md) |
+| 🟨 **JavaScript** | Arcade cabinet logic: values, arrays, functions, the DOM & events | 10 EN · 10 ES | 🟢 Active | [EN](%F0%9F%9F%A8%20JavaScript/README.md) · [ES](%F0%9F%9F%A8%20JavaScript/README-ES.md) |
+| ⚛️ **React** | Guildhall interface: components, state, hooks, context & routing | 17 EN · 17 ES | 🟢 Active | [EN](%E2%9A%9B%EF%B8%8F%20React/README.md) · [ES](%E2%9A%9B%EF%B8%8F%20React/README-ES.md) |
 | ⚙️ **C++** | Engine foundations: types, control flow, collections, classes, memory | 53 EN · 53 ES | 🟢 Active | [EN](%E2%9A%99%EF%B8%8F%20C%2B%2B/README.md) · [ES](%E2%9A%99%EF%B8%8F%20C%2B%2B/README-ES.md) |
 | 🏗️ **Software Engineering** | Design patterns, algorithms & system architecture | — | 🟡 Planned | *Coming soon* |
 | 🎮 **Game Architecture** | Interactive mechanics, engine patterns & physics | — | 🟡 Planned | *Coming soon* |
@@ -86,46 +86,45 @@ Developer-Knowledge-Base/
 ├── tools/                                 <-- vault verifiers (see below)
 ├── .github/workflows/                      <-- runs them on every push
 │
-├── 🐍 Python/                             <-- 11 topics · EN + ES
+├── 🐍 Python/                              <-- 10 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 00b - Python Cheatsheet.md         ·  00b - Chuleta de Python.md
-│   ├── 00c - Python Cheatsheet II.md      ·  00c - Chuleta de Python II.md
-│   ├── 01 - Setup & Data Types.md         ·  01 - Configuración y Tipos de Datos.md
-│   ├── 02 - Control Flow.md               ·  02 - Control de Flujo.md
-│   ├── 03 - Loops.md                      ·  03 - Bucles.md
-│   ├── 04 - Terminal Dungeon Crawl.md     ·  04 - Mazmorra por Terminal.md
-│   ├── 05 - Lists.md                      ·  05 - Listas.md
-│   ├── 06 - Built-in Functions & List Methods.md  ·  06 - Funciones Integradas y Métodos de Lista.md
-│   ├── 07 - Functions.md                  ·  07 - Funciones.md
-│   ├── 08 - Object-Oriented Programming.md  ·  08 - Programación Orientada a Objetos.md
-│   ├── 09 - Modules.md                    ·  09 - Módulos.md
+│   ├── 00b - Verdant Relay Field Card.md  ·  00b - Tarjeta de Campo de Verdant Relay.md
+│   ├── 01 - Beacon Boot Sequence.md       ·  01 - Arranque de Balizas.md
+│   ├── 02 - Threshold Gates.md            ·  02 - Compuertas de Umbral.md
+│   ├── 03 - Tide Cycles.md                ·  03 - Ciclos de Marea.md
+│   ├── 04 - Relay Drift.md                ·  04 - Desviación de Relé.md
+│   ├── 05 - Storm Stack.md                ·  05 - Pila de Tormenta.md
+│   ├── 06 - Relay Routines.md             ·  06 - Rutinas de Relé.md
+│   ├── 07 - Beacon Class.md               ·  07 - Clase Baliza.md
+│   ├── 08 - Relay Modules.md              ·  08 - Módulos de Relé.md
+│   ├── 09 - Storm Window.md               ·  09 - Ventana de Tormenta.md
 │   └── z_attachments/                     <-- local assets (empty, untracked)
 │
-├── 🚀 Git & GitHub/                       <-- 4 topics · EN + ES
+├── 🚀 Git & GitHub/                        <-- 4 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 01 - Introduction & Setup.md        ·  01 - Introducción y Configuración.md
-│   ├── 02 - Core Workflow.md               ·  02 - Flujo de Trabajo Principal.md
-│   ├── 03 - Collaboration & Branching.md   ·  03 - Colaboración y Ramas.md
-│   └── 04 - Advanced Workflow & PRs.md     ·  04 - Flujo Avanzado y PRs.md
+│   ├── 01 - Wayfarer Cache.md             ·  01 - Alijo del Caminante.md
+│   ├── 02 - Trail Markers.md              ·  02 - Marcas del Sendero.md
+│   ├── 03 - Forks in the Trail.md         ·  03 - Bifurcaciones del Camino.md
+│   └── 04 - Campfire Reviews.md           ·  04 - Revisiones en la Hoguera.md
 │
-├── 🟣 CSharp/                             <-- 8 topics · EN + ES
+├── 🟣 CSharp/                              <-- 8 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 00b - Emberforge Field Manual      ·  00b - Manual de Campo de Emberforge
-│   ├── 01 - Blueprint to Binary           ·  01 - Del Plano al Binario
-│   ├── 02 - Typed Blueprints              ·  02 - Planos Tipados
-│   ├── 03 - Triage Logic                  ·  03 - Lógica de Triaje
-│   ├── 04 - Wave Cadence                  ·  04 - Cadencia de Oleadas
-│   ├── 05 - Loadout Roster                ·  05 - Lista de Carga
-│   ├── 06 - Toolsmith Methods             ·  06 - Métodos de Herrería
-│   └── Ironledger Loadout Stress Test     ·  Prueba de Esfuerzo del Equipamiento de Ironledger
+│   ├── 00b - Emberforge Field Manual.md   ·  00b - Manual de Campo de Emberforge.md
+│   ├── 01 - Blueprint to Binary.md        ·  01 - Del Plano al Binario.md
+│   ├── 02 - Typed Blueprints.md           ·  02 - Planos Tipados.md
+│   ├── 03 - Triage Logic.md               ·  03 - Lógica de Triaje.md
+│   ├── 04 - Wave Cadence.md               ·  04 - Cadencia de Oleadas.md
+│   ├── 05 - Loadout Roster.md             ·  05 - Lista de Carga.md
+│   ├── 06 - Toolsmith Methods.md          ·  06 - Métodos de Herrería.md
+│   └── Ironledger Loadout Stress Test.md  ·  Prueba de Esfuerzo del Equipamiento de Ironledger.md
 │
-├── 🧮 Data Structures & Algorithms/       <-- 5 topics · EN + ES
+├── 🧮 Data Structures & Algorithms/        <-- 5 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 01 - Introduction to DSA.md        ·  01 - Introducción a Estructuras de Datos y Algoritmos.md
-│   ├── 02 - Algorithms & Efficiency.md    ·  02 - Algoritmos y Eficiencia.md
-│   ├── 03 - Lists & Linear Search.md      ·  03 - Listas y Búsqueda Lineal.md
-│   ├── 04 - Binary Search.md              ·  04 - Búsqueda Binaria.md
-│   └── 05 - Selection Sort.md             ·  05 - Ordenamiento por Selección.md
+│   ├── 01 - The Wayfarer Charter.md       ·  01 - La Carta del Caminante.md
+│   ├── 02 - Tallying the Tide.md          ·  02 - Contando la Marea.md
+│   ├── 03 - Crates in the Queue.md        ·  03 - Cajas en la Cola.md
+│   ├── 04 - Split the Manifest.md         ·  04 - Dividir el Manifiesto.md
+│   └── 05 - Sort by Bearing.md            ·  05 - Ordenar por Rumbo.md
 │
 ├── 🖥️ Command Line/                       <-- 13 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
@@ -143,122 +142,131 @@ Developer-Knowledge-Base/
 │   ├── 11 - Cloning Relics.md             ·  11 - Clonando Reliquias.md
 │   └── 12 - Dungeon Build.md              ·  12 - Construyendo la Mazmorra.md
 │
-├── 🌐 HTML/                           <-- 6 topics · EN + ES
+├── 🌐 HTML/                                <-- 6 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 00b - HTML Cheatsheet.md          ·  00b - Chuleta de HTML.md
-│   ├── 00c - HTML Cheatsheet II.md       ·  00c - Chuleta de HTML II.md
-│   ├── 01 - HTML Basics.md               ·  01 - Fundamentos de HTML.md
-│   ├── 02 - Structure & Attributes.md    ·  02 - Estructura y Atributos.md
-│   ├── 03 - Forms.md                     ·  03 - Formularios.md
-│   └── 04 - Semantic HTML.md             ·  04 - HTML Semántico.md
+│   ├── 00b - Tideglass Index.md           ·  00b - Índice de Tideglass.md
+│   ├── 00c - Tideglass Field Guide.md     ·  00c - Guía de Campo de Tideglass.md
+│   ├── 01 - Glass Pier Primer.md          ·  01 - Cimiento del Muelle de Cristal.md
+│   ├── 02 - Tideframe Blueprint.md        ·  02 - Plano de Mareas.md
+│   ├── 03 - Harbor Intake Forms.md        ·  03 - Formularios del Puerto.md
+│   └── 04 - Slipway Semantics.md          ·  04 - Semántica del Astillero.md
 │
-├── 🎨 CSS/                                <-- 14 topics · EN + ES
+├── 🎨 CSS/                                 <-- 14 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 00b - CSS Cheatsheet.md           ·  00b - Chuleta de CSS.md
-│   ├── 00c - CSS Cheatsheet II.md        ·  00c - Chuleta de CSS II.md
-│   ├── 01 - CSS Basics.md                ·  01 - Fundamentos de CSS.md
-│   ├── 02 - Colors & Measurements.md     ·  02 - Colores y Medidas.md
-│   ├── 03 - Selectors Pt. 1.md           ·  03 - Selectores Pt. 1.md
-│   ├── 04 - Selectors Pt. 2.md           ·  04 - Selectores Pt. 2.md
-│   ├── 05 - Pseudo-elements.md           ·  05 - Pseudoelementos.md
-│   ├── 06 - Pseudo-classes.md            ·  06 - Pseudoclases.md
-│   ├── 07 - Fonts & Text.md              ·  07 - Fuentes y Texto.md
-│   ├── 08 - Backgrounds & Shorthands.md  ·  08 - Fondos y Shorthands.md
-│   ├── 09 - Box Model & Borders.md       ·  09 - Modelo de Caja y Bordes.md
-│   ├── 10 - Spacing & Box Sizing.md      ·  10 - Espaciado y Box Sizing.md
-│   ├── 11 - Display & Positioning.md     ·  11 - Display y Posicionamiento.md
-│   ├── 12 - Flexbox.md                   ·  12 - Flexbox ES.md
+│   ├── 00b - Tideglass Quick Reference.md ·  00b - Referencia Rápida de Tideglass.md
+│   ├── 00c - Tideglass Layout Reference.md·  00c - Referencia de Maquetación de Tideglass.md
+│   ├── 01 - Tideglass First Light.md      ·  01 - Primer Amanecer en Tideglass.md
+│   ├── 02 - Chalk on the Pier.md          ·  02 - Tiza en el Muelle.md
+│   ├── 03 - Beacons and Lenses.md         ·  03 - Balizas y Lentes.md
+│   ├── 04 - Crosscurrents.md              ·  04 - Contracorrientes.md
+│   ├── 05 - Chalk Marks in the Foam.md    ·  05 - Marcas de Tiza en la Espuma.md
+│   ├── 06 - Tide Signals.md               ·  06 - Señales de Marea.md
+│   ├── 07 - Lantern Light.md              ·  07 - Luz de Farol.md
+│   ├── 08 - Salt Spray.md                 ·  08 - Rocío Salino.md
+│   ├── 09 - The Tideframe.md              ·  09 - El Marco de Mareas.md
+│   ├── 10 - Tied Off.md                   ·  10 - Amarrado.md
+│   ├── 11 - Anchored in the Swell.md      ·  11 - Anclado en la Marejada.md
+│   └── 12 - The Tide Run.md               ·  12 - La Carrera de la Marea.md
 │
-├── 🟨 JavaScript/                         <-- 10 topics · EN + ES
+├── 🟨 JavaScript/                          <-- 10 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 00b - JavaScript Cheatsheet.md    ·  00b - Chuleta de JavaScript.md
-│   ├── 00c - JavaScript Cheatsheet II.md ·  00c - Chuleta de JavaScript II.md
-│   ├── 01 - Insert Coin.md               ·  01 - Inserta la Moneda.md
-│   ├── 02 - Player Stats.md              ·  02 - Atributos del Jugador.md
-│   ├── 03 - Loot Rolls.md                ·  03 - Tiradas de Botín.md
-│   ├── 04 - The Farm.md                  ·  04 - El Farmeo.md
-│   ├── 05 - Inventory.md                 ·  05 - Inventario.md
-│   ├── 06 - Skill Functions.md           ·  06 - Funciones de Habilidad.md
-│   ├── 07 - Character Sheet.md           ·  07 - Ficha de Personaje.md
-│   └── 08 - Living HUD.md                ·  08 - HUD Vivo.md
+│   ├── 00b - JavaScript Cheatsheet.md     ·  00b - Chuleta de JavaScript.md
+│   ├── 00c - JavaScript Cheatsheet II.md  ·  00c - Chuleta de JavaScript II.md
+│   ├── 01 - Insert Coin.md                ·  01 - Inserta la Moneda.md
+│   ├── 02 - Player Stats.md               ·  02 - Atributos del Jugador.md
+│   ├── 03 - Loot Rolls.md                 ·  03 - Tiradas de Botín.md
+│   ├── 04 - The Farm.md                   ·  04 - El Farmeo.md
+│   ├── 05 - Inventory.md                  ·  05 - Inventario.md
+│   ├── 06 - Skill Functions.md            ·  06 - Funciones de Habilidad.md
+│   ├── 07 - Character Sheet.md            ·  07 - Ficha de Personaje.md
+│   └── 08 - Living HUD.md                 ·  08 - HUD Vivo.md
 │
 ├── ⚛️ React/                              <-- 17 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 00b - React Cheatsheet.md         ·  00b - Chuleta de React.md
-│   ├── 00c - React Cheatsheet II.md      ·  00c - Chuleta de React II.md
-│   ├── 01 - The Rebirth.md               ·  01 - El Renacimiento.md
-│   ├── 02 - Spawn Point.md               ·  02 - Punto de Aparición.md
-│   ├── 03 - Glyph Workshop.md            ·  03 - Taller de Glifos.md
-│   ├── 04 - Living Markup.md             ·  04 - Marcado Vivo.md
-│   ├── 05 - Building Blocks.md           ·  05 - Bloques de Construcción.md
-│   ├── 06 - The Skill Tree.md            ·  06 - El Árbol de Habilidades.md
-│   ├── 07 - Trade Routes.md              ·  07 - Rutas Comerciales.md
-│   ├── 08 - The Health Bar.md            ·  08 - La Barra de Vida.md
-│   ├── 09 - The Controller.md            ·  09 - El Mando.md
-│   ├── 10 - The Forge.md                 ·  10 - La Fragua.md
-│   ├── 11 - The Relic System.md          ·  11 - El Sistema de Reliquias.md
-│   ├── 12 - The Guild Ledger.md          ·  12 - El Libro del Gremio.md
-│   ├── 13 - The Courier.md               ·  13 - El Mensajero.md
-│   ├── 14 - The World Map.md             ·  14 - El Mapa del Mundo.md
-│   └── 15 - The Final Boss.md            ·  15 - El Jefe Final.md
+│   ├── 00b - React Cheatsheet.md          ·  00b - Chuleta de React.md
+│   ├── 00c - React Cheatsheet II.md       ·  00c - Chuleta de React II.md
+│   ├── 01 - The Rebirth.md                ·  01 - El Renacimiento.md
+│   ├── 02 - Spawn Point.md                ·  02 - Punto de Aparición.md
+│   ├── 03 - Glyph Workshop.md             ·  03 - Taller de Glifos.md
+│   ├── 04 - Living Markup.md              ·  04 - Marcado Vivo.md
+│   ├── 05 - Building Blocks.md            ·  05 - Bloques de Construcción.md
+│   ├── 06 - The Skill Tree.md             ·  06 - El Árbol de Habilidades.md
+│   ├── 07 - Trade Routes.md               ·  07 - Rutas Comerciales.md
+│   ├── 08 - The Health Bar.md             ·  08 - La Barra de Vida.md
+│   ├── 09 - The Controller.md             ·  09 - El Mando.md
+│   ├── 10 - The Forge.md                  ·  10 - La Fragua.md
+│   ├── 11 - The Relic System.md           ·  11 - El Sistema de Reliquias.md
+│   ├── 12 - The Guild Ledger.md           ·  12 - El Libro del Gremio.md
+│   ├── 13 - The Courier.md                ·  13 - El Mensajero.md
+│   ├── 14 - The World Map.md              ·  14 - El Mapa del Mundo.md
+│   └── 15 - The Final Boss.md             ·  15 - El Jefe Final.md
 │
 ├── ⚙️ C++/                                <-- 53 topics · EN + ES
 │   ├── README.md          ·  README-ES.md
-│   ├── 00b - Field Manual I.md               ·  00b - Manual de Campo I.md
-│   ├── 00c - Field Manual II.md              ·  00c - Manual de Campo II.md
-│   ├── 01 - Cold Start.md                    ·  01 - Arranque en Frío.md
-│   ├── 02 - First Light.md                   ·  02 - Primera Luz.md
-│   ├── 03 - The Skeleton File.md             ·  03 - El Archivo Esqueleto.md
-│   ├── 04 - Notes in the Margin.md           ·  04 - Notas al Margen.md
-│   ├── 05 - Escape Velocity.md               ·  05 - Velocidad de Escape.md
-│   ├── 06 - From Source to Switch.md         ·  06 - De Fuente a Interruptor.md
-│   ├── 07 - Raw Materials.md                 ·  07 - Materia Prima.md
-│   ├── 08 - Naming the Parts.md              ·  08 - Nombrar las Piezas.md
-│   ├── 09 - In, Through, Out.md              ·  09 - Entra, Procesa, Sale.md
-│   ├── 10 - Numbers That Lie.md              ·  10 - Números que Mienten.md
-│   ├── 11 - Echo Chamber.md                  ·  11 - Cámara de Eco.md
-│   ├── 12 - Speak to the Machine.md          ·  12 - Hablar con la Máquina.md
-│   ├── 13 - Level Scaling.md                 ·  13 - Escalado de Niveles.md
-│   ├── 14 - Forked Roads.md                  ·  14 - Caminos Bifurcados.md
-│   ├── 15 - Doors and Keys.md                ·  15 - Puertas y Llaves.md
-│   ├── 16 - Tiers and Thresholds.md          ·  16 - Rangos y Umbrales.md
-│   ├── 17 - Loaded Dice.md                   ·  17 - Dados Cargados.md
-│   ├── 18 - Guards and Gates.md              ·  18 - Guardias y Portones.md
-│   ├── 19 - Trial by Question.md             ·  19 - Prueba de Preguntas.md
-│   ├── 20 - The Loop That Waits.md           ·  20 - El Bucle que Espera.md
-│   ├── 21 - Holding Patterns.md              ·  21 - Patrones de Espera.md
-│   ├── 22 - Tick by Tick.md                  ·  22 - Tic a Tic.md
-│   ├── 23 - Countdown Protocol.md            ·  23 - Protocolo de Cuenta Atrás.md
-│   ├── 24 - The Pattern Trial.md             ·  24 - La Prueba del Patrón.md
-│   ├── 25 - The Satchel.md                   ·  25 - La Alforja.md
-│   ├── 26 - Slot and Index.md                ·  26 - Ranura e Índice.md
-│   ├── 27 - Pack and Unpack.md               ·  27 - Cargar y Descargar.md
-│   ├── 28 - Walking the Satchel.md           ·  28 - Recorrer la Alforja.md
-│   ├── 29 - The Alchemist's Tally.md         ·  29 - El Cómputo del Alquimista.md
-│   ├── 30 - Stone Racks and Satchels.md      ·  30 - Estantes de Piedra y Alforjas.md
-│   ├── 31 - One Spell, Many Casts.md         ·  31 - Un Hechizo, Muchos Usos.md
-│   ├── 32 - The Tavern Board.md              ·  32 - El Tablón de la Taberna.md
-│   ├── 33 - Filling the Slots.md             ·  33 - Llenar las Ranuras.md
-│   ├── 34 - Handing Back the Loot.md         ·  34 - Devolver el Botín.md
-│   ├── 35 - Chained Returns.md               ·  35 - Retornos Encadenados.md
-│   ├── 36 - The Gate Tax.md                  ·  36 - El Impuesto del Portal.md
-│   ├── 37 - Where Names Live.md              ·  37 - Dónde Viven los Nombres.md
-│   ├── 38 - Guild Blueprints.md              ·  38 - Planos del Gremio.md
-│   ├── 39 - Sealed and Open Doors.md         ·  39 - Puertas Selladas y Abiertas.md
-│   ├── 40 - The Relic Safe.md                ·  40 - La Caja Fuerte de Reliquias.md
-│   ├── 41 - The Relic Safe, Wired.md         ·  41 - La Caja Fuerte, Conectada.md
-│   ├── 42 - Spawn With Stats.md              ·  42 - Nacer con Atributos.md
-│   ├── 43 - The Familiar Codex.md            ·  43 - El Códice de Familiares.md
-│   ├── 44 - The Familiar Codex, Animated.md  ·  44 - El Códice, Animado.md
-│   ├── 45 - Where Things Live.md             ·  45 - Dónde Viven las Cosas.md
-│   ├── 46 - The Address-Of Lens.md           ·  46 - La Lente Dirección-De.md
-│   ├── 47 - Handles to Memory.md             ·  47 - Asas a la Memoria.md
-│   ├── 48 - Reaching Through the Handle.md   ·  48 - Alcanzar a Través del Asa.md
-│   ├── 49 - Aliases vs Handles.md            ·  49 - Alias vs Asas.md
-│   ├── 50 - The Empty Handle.md              ·  50 - El Asa Vacía.md
-│   └── 51 - The Last Ember.md                ·  51 - La Última Brasa.md
+│   ├── 00b - Field Manual I.md            ·  00b - Manual de Campo I.md
+│   ├── 00c - Field Manual II.md           ·  00c - Manual de Campo II.md
+│   ├── 01 - Cold Start.md                 ·  01 - Arranque en Frío.md
+│   ├── 02 - First Light.md                ·  02 - Primera Luz.md
+│   ├── 03 - The Skeleton File.md          ·  03 - El Archivo Esqueleto.md
+│   ├── 04 - Notes in the Margin.md        ·  04 - Notas al Margen.md
+│   ├── 05 - Escape Velocity.md            ·  05 - Velocidad de Escape.md
+│   ├── 06 - From Source to Switch.md      ·  06 - De Fuente a Interruptor.md
+│   ├── 07 - Raw Materials.md              ·  07 - Materia Prima.md
+│   ├── 08 - Naming the Parts.md           ·  08 - Nombrar las Piezas.md
+│   ├── 09 - In, Through, Out.md           ·  09 - Entra, Procesa, Sale.md
+│   ├── 10 - Numbers That Lie.md           ·  10 - Números que Mienten.md
+│   ├── 11 - Echo Chamber.md               ·  11 - Cámara de Eco.md
+│   ├── 12 - Speak to the Machine.md       ·  12 - Hablar con la Máquina.md
+│   ├── 13 - Level Scaling.md              ·  13 - Escalado de Niveles.md
+│   ├── 14 - Forked Roads.md               ·  14 - Caminos Bifurcados.md
+│   ├── 15 - Doors and Keys.md             ·  15 - Puertas y Llaves.md
+│   ├── 16 - Tiers and Thresholds.md       ·  16 - Rangos y Umbrales.md
+│   ├── 17 - Loaded Dice.md                ·  17 - Dados Cargados.md
+│   ├── 18 - Guards and Gates.md           ·  18 - Guardias y Portones.md
+│   ├── 19 - Trial by Question.md          ·  19 - Prueba de Preguntas.md
+│   ├── 20 - The Loop That Waits.md        ·  20 - El Bucle que Espera.md
+│   ├── 21 - Holding Patterns.md           ·  21 - Patrones de Espera.md
+│   ├── 22 - Tick by Tick.md               ·  22 - Tic a Tic.md
+│   ├── 23 - Countdown Protocol.md         ·  23 - Protocolo de Cuenta Atrás.md
+│   ├── 24 - The Pattern Trial.md          ·  24 - La Prueba del Patrón.md
+│   ├── 25 - The Satchel.md                ·  25 - La Alforja.md
+│   ├── 26 - Slot and Index.md             ·  26 - Ranura e Índice.md
+│   ├── 27 - Pack and Unpack.md            ·  27 - Cargar y Descargar.md
+│   ├── 28 - Walking the Satchel.md        ·  28 - Recorrer la Alforja.md
+│   ├── 29 - The Alchemist's Tally.md      ·  29 - El Cómputo del Alquimista.md
+│   ├── 30 - Stone Racks and Satchels.md   ·  30 - Estantes de Piedra y Alforjas.md
+│   ├── 31 - One Spell, Many Casts.md      ·  31 - Un Hechizo, Muchos Usos.md
+│   ├── 32 - The Tavern Board.md           ·  32 - El Tablón de la Taberna.md
+│   ├── 33 - Filling the Slots.md          ·  33 - Llenar las Ranuras.md
+│   ├── 34 - Handing Back the Loot.md      ·  34 - Devolver el Botín.md
+│   ├── 35 - Chained Returns.md            ·  35 - Retornos Encadenados.md
+│   ├── 36 - The Gate Tax.md               ·  36 - El Impuesto del Portal.md
+│   ├── 37 - Where Names Live.md           ·  37 - Dónde Viven los Nombres.md
+│   ├── 38 - Guild Blueprints.md           ·  38 - Planos del Gremio.md
+│   ├── 39 - Sealed and Open Doors.md      ·  39 - Puertas Selladas y Abiertas.md
+│   ├── 40 - The Relic Safe.md             ·  40 - La Caja Fuerte de Reliquias.md
+│   ├── 41 - The Relic Safe, Wired.md      ·  41 - La Caja Fuerte, Conectada.md
+│   ├── 42 - Spawn With Stats.md           ·  42 - Nacer con Atributos.md
+│   ├── 43 - The Familiar Codex.md         ·  43 - El Códice de Familiares.md
+│   ├── 44 - The Familiar Codex, Animated.md·  44 - El Códice, Animado.md
+│   ├── 45 - Where Things Live.md          ·  45 - Dónde Viven las Cosas.md
+│   ├── 46 - The Address-Of Lens.md        ·  46 - La Lente Dirección-De.md
+│   ├── 47 - Handles to Memory.md          ·  47 - Asas a la Memoria.md
+│   ├── 48 - Reaching Through the Handle.md·  48 - Alcanzar a Través del Asa.md
+│   ├── 49 - Aliases vs Handles.md         ·  49 - Alias vs Asas.md
+│   ├── 50 - The Empty Handle.md           ·  50 - El Asa Vacía.md
+│   └── 51 - The Last Ember.md             ·  51 - La Última Brasa.md
 │
-└── 🤖 GenAI/                              <-- 6 topics · EN + ES
+├── 🤖 GenAI/                               <-- 6 topics · EN + ES
+│   ├── README.md          ·  README-ES.md
+│   ├── 00b - GenAI Cheatsheet.md          ·  00b - Chuleta de GenAI.md
+│   ├── 00c - GenAI Cheatsheet II.md       ·  00c - Chuleta de GenAI II.md
+│   ├── 01 - Beacon Signals.md             ·  01 - Señales de Baliza.md
+│   ├── 02 - Field Briefs.md               ·  02 - Instrucciones de Campo.md
+│   ├── 03 - Meadow Index.md               ·  03 - Índice del Prado.md
+│   ├── 04 - Relay Faults.md               ·  04 - Fallas del Relevo.md
+│   └── z_attachments/                     <-- local assets (empty, untracked)
+│
     ├── README.md          ·  README-ES.md
     ├── 00b - GenAI Cheatsheet.md          ·  00b - Chuleta de GenAI.md
     ├── 00c - GenAI Cheatsheet II.md       ·  00c - Chuleta de GenAI II.md

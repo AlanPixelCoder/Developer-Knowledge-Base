@@ -184,7 +184,7 @@ Everything from this sheet in a single file — one Emberfall campfire widget:
 
 - [[00b - JavaScript Cheatsheet]] — the core language half: variables, loops, arrays, functions, objects
 - [[08 - Living HUD]] — where every statement on this sheet is introduced, with quests
-- [[01 - HTML Basics]] — the markup the DOM renders
-- [[12 - Flexbox]] — laying out the page this script manipulates
+- [[01 - Glass Pier Primer]] — the markup the DOM renders
+- [[12 - The Tide Run]] — laying out the page this script manipulates
 
 ---

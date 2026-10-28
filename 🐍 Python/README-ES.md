@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🐍 Python: El Arte de la Artesanía Algorítmica (MOC)
+# 🐍 Python: Verdant Relay (MOC)
 
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
 
-_Un mapa de conocimiento dinámico para transformar la sintaxis de Python en proyectos de videojuegos funcionales, arquitecturas y sistemas._
+_Una guía de campo para mantener una red de balizas remotas a lo largo de una reserva costera azotada por tormentas._
 
 </div>
 
@@ -15,10 +15,10 @@ _Un mapa de conocimiento dinámico para transformar la sintaxis de Python en pro
 ---
 
 **Nota:**
-Esta página es el mapa central de las notas de Python de este vault de Obsidian. Cada ejercicio y ejemplo de código está enmarcado en torno al desarrollo de videojuegos (combate, botín, misiones, juego en grupo y herramientas de motores).
+Esta página es el mapa central de las notas de Python en este vault de Obsidian. El ejemplo guía sigue **Verdant Relay**, un estudio de operaciones de campo que mantiene balizas remotas — analizando registros, resumiendo lecturas y automatizando informes.
 
 **Consejo:**
-Empieza por los **Fundamentos del Lenguaje** y luego sigue el mapa hacia las estructuras de datos, la arquitectura y las aplicaciones del mundo real.
+Empieza con Arranque de Balizas y avanza por los ciclos de marea hasta el proyecto final Ventana de Tormenta.
 
 ---
 
@@ -27,36 +27,29 @@ Empieza por los **Fundamentos del Lenguaje** y luego sigue el mapa hacia las est
 ### 📑 Referencia y Chuletas
 
 * **Chuletas:**
-  * [00b - Chuleta de Python](./00b%20-%20Chuleta%20de%20Python.md) — Sintaxis, primitivas, control de flujo, bucles y fundamentos esenciales.
-  * [00c - Chuleta de Python II](./00c%20-%20Chuleta%20de%20Python%20II.md) — Listas, métodos de lista, funciones, ámbito, clases y módulos.
+  * [00b - Tarjeta de Campo de Verdant Relay](./00b%20-%20Tarjeta%20de%20Campo%20de%20Verdant%20Relay.md) — Sintaxis, control de flujo, bucles, estructuras de datos, funciones, clases e importaciones.
 
-### 🧠 1. Fundamentos del Lenguaje
+### 🧠 1. Fundamentos de Telemetría
 
-* **Variables y Tipos de Datos:** [01 - Configuración y Tipos de Datos](./01%20-%20Configuraci%C3%B3n%20y%20Tipos%20de%20Datos.md) — Fundamentos, salida por consola y el lienzo inicial (`str`, `int`, `float`, `bool`).
-* **Sistemas de Control de Flujo:** [02 - Control de Flujo](./02%20-%20Control%20de%20Flujo.md) — Toma de decisiones con `if` / `elif` / `else` y operadores booleanos (`and`, `or`, `not`).
-* **Lógica Iterativa (Bucles):** [03 - Bucles](./03%20-%20Bucles.md) — Iteración automatizada con `for` y `while`, control mediante `break`, `continue` y `pass`.
-* **Proyectos:** [04 - Mazmorra por Terminal](./04%20-%20Mazmorra%20por%20Terminal.md) — Proyecto interactivo de mazmorra por CLI.
+* **Arranque de Balizas:** [01 - Arranque de Balizas](./01%20-%20Arranque%20de%20Balizas.md) — Salida, variables, tipos de datos y aritmética para lecturas al arrancar.
+* **Compuertas de Umbral:** [02 - Compuertas de Umbral](./02%20-%20Compuertas%20de%20Umbral.md) — Errores, condicionales, operadores relacionales y lógicos para alarmas.
+* **Ciclos de Marea:** [03 - Ciclos de Marea](./03%20-%20Ciclos%20de%20Marea.md) — Bucles `while`/`for`, `range()`, control de iteración y reintentos.
 
-### 📦 2. Estructuras de Datos (Organización y Almacenamiento)
+### 📦 2. Datos y Estado
 
-* **Listas (`list`) y Tuplas (`tuple`):**
-  * [05 - Listas](./05%20-%20Listas.md) — Introducción, indexación, rebanado, iteración y operaciones esenciales.
-  * [06 - Funciones Integradas y Métodos de Lista](./06%20-%20Funciones%20Integradas%20y%20M%C3%A9todos%20de%20Lista.md) — Métodos de lista, proyecto de lista de pendientes y matrices 2D.
-* **Diccionarios (`dict`) y Conjuntos (`set`):** Mapeo clave-valor y operaciones propias de los conjuntos.
-* **Comprensiones:** Creación expresiva y eficiente de listas y diccionarios en una sola línea.
+* **Desviación de Relé:** [04 - Desviación de Relé](./04%20-%20Desviaci%C3%B3n%20de%20Rel%C3%A9.md) — Listas, indexación, rebanado, funciones integradas, métodos e iteración.
+* **Pila de Tormenta:** [05 - Pila de Tormenta](./05%20-%20Pila%20de%20Tormenta.md) — Listas anidadas/matrices, diccionarios y conjuntos.
 
-### ⚙️ 3. Arquitectura Modular (Funciones y Módulos)
+### ⚙️ 3. Automatización e Integración
 
-* **Funciones:**
-  * [07 - Funciones](./07%20-%20Funciones.md) — El principio D.R.Y., definición y llamada de funciones, parámetros y argumentos.
-* **Programación Orientada a Objetos:**
-  * [08 - Programación Orientada a Objetos](./08%20-%20Programaci%C3%B3n%20Orientada%20a%20Objetos.md) — Clases, instancias, constructores, métodos y principios de la POO.
-* **Módulos y Paquetes:**
-  * [09 - Módulos](./09%20-%20M%C3%B3dulos.md) — Biblioteca estándar (`math`, `random`, `datetime`), módulos personalizados, `pip3`, PyPI (`wikipedia`) y El Zen de Python.
+* **Rutinas de Relé:** [06 - Rutinas de Relé](./06%20-%20Rutinas%20de%20Rel%C3%A9.md) — Funciones, parámetros, valores de retorno, ámbito y lambdas.
+* **Clase Baliza:** [07 - Clase Baliza](./07%20-%20Clase%20Baliza.md) — Clases, objetos, `__init__()` y métodos de instancia.
+* **Módulos de Relé:** [08 - Módulos de Relé](./08%20-%20M%C3%B3dulos%20de%20Rel%C3%A9.md) — Importaciones, biblioteca estándar y módulos personalizados.
+* **Ventana de Tormenta:** [09 - Ventana de Tormenta](./09%20-%20Ventana%20de%20Tormenta.md) — Proyecto final: consola de telemetría integrando todo lo aprendido.
 
 ```mermaid
 flowchart LR
-    A[Fundamentos de Python] --> B[Estructuras de Datos y POO]
-    B --> C[Ecosistema y Módulos]
-    C --> D[Temas Avanzados del Núcleo]
+    A[Fundamentos de Telemetría] --> B[Datos y Estado]
+    B --> C[Automatización e Integración]
+    C --> D[Proyecto Final Ventana de Tormenta]
 ```

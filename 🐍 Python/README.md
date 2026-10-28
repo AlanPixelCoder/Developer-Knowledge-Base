@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🐍 Python: The Art of Algorithmic Craft (MOC)
+# 🐍 Python: Verdant Relay (MOC)
 
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
 
-_A dynamic knowledge map for transforming Python syntax into functional game projects, architectures, and systems._
+_A telemetry field guide for maintaining a network of remote sensor beacons along a storm-battered coastal reserve._
 
 </div>
 
@@ -15,10 +15,10 @@ _A dynamic knowledge map for transforming Python syntax into functional game pro
 ---
 
 **Note:**
-This page is the central map for the Python notes in this Obsidian vault. Every exercise and code sample is framed around video game development (combat, loot, quests, party play, and engine tooling).
+This page is the central map for the Python notes in this Obsidian vault. The running example follows **Verdant Relay**, a field-operations studio maintaining remote sensor beacons — parsing logs, summarising readings, and automating reports.
 
 **Tip:**
-Start with the **Core Language Foundations**, then follow the map toward data structures, architecture, and real-world applications.
+Start with Beacon Boot Sequence and work through the tide cycles toward the Storm Window capstone.
 
 ---
 
@@ -27,36 +27,29 @@ Start with the **Core Language Foundations**, then follow the map toward data st
 ### 📑 Reference & Cheatsheets
 
 * **Cheatsheets:**
-  * [00b - Python Cheatsheet](./00b%20-%20Python%20Cheatsheet.md) — Syntax, primitives, control flow, loops, and core fundamentals.
-  * [00c - Python Cheatsheet II](./00c%20-%20Python%20Cheatsheet%20II.md) — Lists, list methods, functions, scope, classes, and modules.
+  * [00b - Verdant Relay Field Card](./00b%20-%20Verdant%20Relay%20Field%20Card.md) — Syntax, control flow, loops, data structures, functions, classes, and imports.
 
-### 🧠 1. Core Language Foundations
+### 🧠 1. Telemetry Foundations
 
-* **Variables & Data Types:** [01 - Setup & Data Types](./01%20-%20Setup%20&%20Data%20Types.md) — Fundamentals, print output, and initial canvas (`str`, `int`, `float`, `bool`).
-* **Control Flow Systems:** [02 - Control Flow](./02%20-%20Control%20Flow.md) — Decision-making with `if` / `elif` / `else` and boolean operators (`and`, `or`, `not`).
-* **Iterative Logic (Loops):** [03 - Loops](./03%20-%20Loops.md) — Automated iteration with `for` and `while`, control via `break`, `continue`, and `pass`.
-* **Projects:** [04 - Terminal Dungeon Crawl](./04%20-%20Terminal%20Dungeon%20Crawl.md) — Interactive CLI dungeon-crawl project.
+* **Beacon Boot Sequence:** [01 - Beacon Boot Sequence](./01%20-%20Beacon%20Boot%20Sequence.md) — Output, variables, data types, and arithmetic for boot-time readings.
+* **Threshold Gates:** [02 - Threshold Gates](./02%20-%20Threshold%20Gates.md) — Errors, conditionals, relational and logical operators for alarm logic.
+* **Tide Cycles:** [03 - Tide Cycles](./03%20-%20Tide%20Cycles.md) — `while`/`for` loops, `range()`, iteration control and retries.
 
-### 📦 2. Data Structures (Organization & Storage)
+### 📦 2. Data & State
 
-* **Lists (`list`) & Tuples (`tuple`):**
-  * [05 - Lists](./05%20-%20Lists.md) — Intro, indexing, slicing, iterating, and core operations.
-  * [06 - Built-in Functions & List Methods](./06%20-%20Built-in%20Functions%20&%20List%20Methods.md) — List methods, bucket list project, and 2D matrices.
-* **Dictionaries (`dict`) & Sets (`set`):** Key-value mapping and unique set operations.
-* **Comprehensions:** Expressive and efficient single-line creation of lists and dictionaries.
+* **Relay Drift:** [04 - Relay Drift](./04%20-%20Relay%20Drift.md) — Lists, indexing, slicing, built-ins, methods, and batch iteration.
+* **Storm Stack:** [05 - Storm Stack](./05%20-%20Storm%20Stack.md) — Nested lists/matrices, dictionaries, and sets for stacked telemetry.
 
-### ⚙️ 3. Modular Architecture (Functions & Modules)
+### ⚙️ 3. Automation & Integration
 
-* **Functions:**
-  * [07 - Functions](./07%20-%20Functions.md) — The D.R.Y. principle, defining/calling functions, parameters, and arguments.
-* **Object-Oriented Programming:**
-  * [08 - Object-Oriented Programming](./08%20-%20Object-Oriented%20Programming.md) — Classes, instances, constructors, methods, and OOP principles.
-* **Modules & Packages:**
-  * [09 - Modules](./09%20-%20Modules.md) — Standard library (`math`, `random`, `datetime`), custom modules, `pip3`, PyPI (`wikipedia`), and The Zen of Python.
+* **Relay Routines:** [06 - Relay Routines](./06%20-%20Relay%20Routines.md) — Functions, parameters, return values, scope, and lambdas.
+* **Beacon Class:** [07 - Beacon Class](./07%20-%20Beacon%20Class.md) — Classes, objects, `__init__()`, and instance methods.
+* **Relay Modules:** [08 - Relay Modules](./08%20-%20Relay%20Modules.md) — Imports, standard library, and custom modules.
+* **Storm Window:** [09 - Storm Window](./09%20-%20Storm%20Window.md) — Capstone telemetry console bringing the pieces together.
 
 ```mermaid
 flowchart LR
-    A[Python Fundamentals] --> B[Data Structures & OOP]
-    B --> C[Ecosystem & Modules]
-    C --> D[Advanced Core Topics]
+    A[Telemetry Foundations] --> B[Data & State]
+    B --> C[Automation & Integration]
+    C --> D[Storm Window Capstone]
 ```

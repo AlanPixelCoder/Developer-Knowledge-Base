@@ -9,7 +9,7 @@
 
 <hr style="border: none; height: 3px; background: linear-gradient(90deg, transparent, #7C5CFF, #00C2A8, #7C5CFF, transparent); margin: 24px 0;" />
 
-Una página para todo el módulo. Todo lo de aquí se construyó en [[01 - Cómo Piensa la IA]] y [[03 - Embeddings y Búsqueda Semántica]]; aquí no hay nada nuevo. Los patrones de prompt y la lista de riesgos viven en [[00c - Chuleta de GenAI II]].
+Una página para todo el módulo. Todo lo de aquí se construyó en [[01 - Señales de Baliza]] y [[03 - Índice del Prado]]; aquí no hay nada nuevo. Los patrones de prompt y la lista de riesgos viven en [[00c - Chuleta de GenAI II]].
 
 ---
 

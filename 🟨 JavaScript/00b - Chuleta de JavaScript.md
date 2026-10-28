@@ -328,6 +328,6 @@ shop.sell("Dragon"); // Out of stock!
 - [[00c - Chuleta de JavaScript II]] — el DOM, `.style`, eventos y `addEventListener`
 - [[01 - Inserta la Moneda]] — consola y comentarios, donde empieza esta chuleta
 - [[07 - Ficha de Personaje]] — objetos, la última parada antes del DOM
-- [[12 - Flexbox]] — maquetando la página que este lenguaje va a manejar
+- [[12 - La Carrera de la Marea]] — maquetando la página que este lenguaje va a manejar
 
 ---

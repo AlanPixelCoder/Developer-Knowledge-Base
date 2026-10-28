@@ -187,6 +187,6 @@ Todo lo de esta chuleta en un solo archivo — un widget de campamento de Emberf
 - [[00b - Chuleta de JavaScript]] — la mitad de lenguaje base: variables, bucles, arreglos, funciones, objetos
 - [[08 - HUD Vivo]] — donde se introduce cada sentencia de esta chuleta, con misiones
 - [[01 - Inserta la Moneda]] — el marcado que el DOM renderiza
-- [[12 - Flexbox]] — maquetando la página que este script manipula
+- [[12 - La Carrera de la Marea]] — maquetando la página que este script manipula
 
 ---
