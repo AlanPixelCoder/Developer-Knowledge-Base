@@ -355,4 +355,5 @@ gitGraph
    checkout main
    merge feature/csharp
    commit id: "Release: Knowledge Base v1.0"
+   commit id: "CI: Discord webhook test"
 ```
